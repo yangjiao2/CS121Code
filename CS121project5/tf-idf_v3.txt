@@ -1,0 +1,2516 @@
+firewood        (idf:2.447158)
+	 19921 :1 :6	(tf:0.111111)	(tf-idf weight:0.045404)
+
+fireworks       (idf:2.447158)
+	 19867 :1 :5	(tf:0.166667)	(tf-idf weight:0.068106)
+
+first           (idf:1.845098)
+	 201410:1 :1	(tf:0.142857)	(tf-idf weight:0.077425)
+	 20044 :1 :1	(tf:0.083333)	(tf-idf weight:0.045165)
+	 20015 :1 :6	(tf:0.090909)	(tf-idf weight:0.049271)
+	 19907 :1 :1	(tf:0.090909)	(tf-idf weight:0.049271)
+
+fish            (idf:2.447158)
+	 20014 :1 :4	(tf:0.111111)	(tf-idf weight:0.045404)
+
+fisherman       (idf:2.447158)
+	 19798 :1 :6	(tf:0.090909)	(tf-idf weight:0.037149)
+
+fist            (idf:2.447158)
+	 19978 :1 :5	(tf:0.142857)	(tf-idf weight:0.058377)
+
+flamingo        (idf:2.447158)
+	 20119 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+flaps           (idf:2.447158)
+	 19827 :1 :10	(tf:0.100000)	(tf-idf weight:0.040864)
+
+flesh           (idf:2.447158)
+	 19805 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+flick           (idf:2.447158)
+	 20075 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+flickers        (idf:2.447158)
+	 19955 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+flies           (idf:2.146128)
+	 20131 :1 :1	(tf:0.090909)	(tf-idf weight:0.042360)
+	 19973 :1 :5	(tf:0.111111)	(tf-idf weight:0.051773)
+
+floaters        (idf:2.447158)
+	 19838 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+floating        (idf:2.146128)
+	 20137 :1 :9	(tf:0.083333)	(tf-idf weight:0.038830)
+	 19932 :1 :9	(tf:0.111111)	(tf-idf weight:0.051773)
+
+flop            (idf:2.447158)
+	 19824 :1 :7	(tf:0.071429)	(tf-idf weight:0.029188)
+
+flower          (idf:2.146128)
+	 20145 :1 :7	(tf:0.142857)	(tf-idf weight:0.066565)
+	 19843 :1 :8	(tf:0.111111)	(tf-idf weight:0.051773)
+
+flowers         (idf:2.146128)
+	 20007 :1 :7	(tf:0.142857)	(tf-idf weight:0.066565)
+	 19991 :1 :8	(tf:0.125000)	(tf-idf weight:0.058244)
+
+flowing         (idf:2.447158)
+	 20136 :1 :1	(tf:0.166667)	(tf-idf weight:0.068106)
+
+fog             (idf:2.146128)
+	 19936 :1 :3	(tf:0.100000)	(tf-idf weight:0.046596)
+	 19883 :1 :3	(tf:0.333333)	(tf-idf weight:0.155318)
+
+foghorns        (idf:2.447158)
+	 19992 :1 :1	(tf:0.125000)	(tf-idf weight:0.051080)
+
+fold            (idf:2.447158)
+	 19825 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+folded          (idf:2.447158)
+	 19994 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+folds           (idf:2.447158)
+	 19794 :2 :3, 8	(tf:0.250000)	(tf-idf weight:0.102159)
+
+following       (idf:2.447158)
+	 19877 :1 :6	(tf:0.100000)	(tf-idf weight:0.040864)
+
+foot            (idf:2.447158)
+	 19854 :1 :7	(tf:0.090909)	(tf-idf weight:0.037149)
+
+forest          (idf:2.447158)
+	 20146 :1 :1	(tf:0.125000)	(tf-idf weight:0.051080)
+
+forever         (idf:2.447158)
+	 19826 :1 :11	(tf:0.090909)	(tf-idf weight:0.037149)
+
+forgotten       (idf:2.447158)
+	 19976 :1 :3	(tf:0.142857)	(tf-idf weight:0.058377)
+
+forth           (idf:2.447158)
+	 198011:1 :3	(tf:0.142857)	(tf-idf weight:0.058377)
+
+found           (idf:2.447158)
+	 20104 :1 :11	(tf:0.083333)	(tf-idf weight:0.034053)
+
+fox             (idf:2.447158)
+	 19832 :1 :4	(tf:0.100000)	(tf-idf weight:0.040864)
+
+fragrant        (idf:2.447158)
+	 199110:1 :7	(tf:0.142857)	(tf-idf weight:0.058377)
+
+frog            (idf:2.447158)
+	 19771 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+front           (idf:2.146128)
+	 20101 :1 :9	(tf:0.100000)	(tf-idf weight:0.046596)
+	 20011 :1 :4	(tf:0.125000)	(tf-idf weight:0.058244)
+
+frost           (idf:2.447158)
+	 19943 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+frozen          (idf:2.146128)
+	 19893 :1 :1	(tf:0.111111)	(tf-idf weight:0.051773)
+	 19873 :1 :1	(tf:0.125000)	(tf-idf weight:0.058244)
+
+full            (idf:2.146128)
+	 19879 :1 :1	(tf:0.125000)	(tf-idf weight:0.058244)
+	 198213:1 :8	(tf:0.076923)	(tf-idf weight:0.035843)
+
+funeral         (idf:2.146128)
+	 20042 :1 :3	(tf:0.125000)	(tf-idf weight:0.058244)
+	 19981 :1 :1	(tf:0.142857)	(tf-idf weight:0.066565)
+
+furled          (idf:2.447158)
+	 19916 :1 :6	(tf:0.090909)	(tf-idf weight:0.037149)
+
+garden          (idf:1.968483)
+	 19993 :1 :4	(tf:0.125000)	(tf-idf weight:0.063501)
+	 19985 :1 :7	(tf:0.090909)	(tf-idf weight:0.046182)
+	 19941 :1 :2	(tf:0.090909)	(tf-idf weight:0.046182)
+
+gate            (idf:2.447158)
+	 20101 :1 :10	(tf:0.100000)	(tf-idf weight:0.040864)
+
+gather          (idf:2.447158)
+	 19907 :1 :8	(tf:0.090909)	(tf-idf weight:0.037149)
+
+geese           (idf:2.146128)
+	 19841 :1 :2	(tf:0.111111)	(tf-idf weight:0.051773)
+	 19772 :1 :11	(tf:0.090909)	(tf-idf weight:0.042360)
+
+gentle          (idf:2.447158)
+	 20001 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+gently          (idf:2.447158)
+	 19894 :1 :4	(tf:0.100000)	(tf-idf weight:0.040864)
+
+geronimo's      (idf:2.447158)
+	 20007 :1 :1	(tf:0.142857)	(tf-idf weight:0.058377)
+
+gifts           (idf:2.447158)
+	 198711:1 :6	(tf:0.111111)	(tf-idf weight:0.045404)
+
+gill            (idf:2.447158)
+	 20014 :1 :8	(tf:0.111111)	(tf-idf weight:0.045404)
+
+girl            (idf:2.447158)
+	 19772 :1 :5	(tf:0.090909)	(tf-idf weight:0.037149)
+
+gives           (idf:2.146128)
+	 20145 :1 :4	(tf:0.142857)	(tf-idf weight:0.066565)
+	 20056 :1 :5	(tf:0.100000)	(tf-idf weight:0.046596)
+
+giving          (idf:2.447158)
+	 19915 :1 :5	(tf:0.100000)	(tf-idf weight:0.040864)
+
+glass           (idf:2.447158)
+	 19901 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+glint           (idf:2.447158)
+	 201110:1 :1	(tf:0.125000)	(tf-idf weight:0.051080)
+
+glories         (idf:2.447158)
+	 19781 :1 :5	(tf:0.166667)	(tf-idf weight:0.068106)
+
+glory           (idf:2.447158)
+	 19794 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+go              (idf:2.447158)
+	 19951 :1 :4	(tf:0.076923)	(tf-idf weight:0.031434)
+
+goes            (idf:2.447158)
+	 20054 :1 :6	(tf:0.100000)	(tf-idf weight:0.040864)
+
+going           (idf:2.447158)
+	 19906 :1 :5	(tf:0.090909)	(tf-idf weight:0.037149)
+
+goldfish        (idf:2.447158)
+	 198011:1 :4	(tf:0.142857)	(tf-idf weight:0.058377)
+
+gone            (idf:2.447158)
+	 20136 :1 :6	(tf:0.166667)	(tf-idf weight:0.068106)
+
+grabs           (idf:2.447158)
+	 19978 :1 :1	(tf:0.142857)	(tf-idf weight:0.058377)
+
+grains          (idf:2.447158)
+	 19945 :1 :9	(tf:0.090909)	(tf-idf weight:0.037149)
+
+grandson        (idf:2.447158)
+	 19855 :1 :3	(tf:0.100000)	(tf-idf weight:0.040864)
+
+grave           (idf:1.748188)
+	 20125 :1 :7	(tf:0.111111)	(tf-idf weight:0.063558)
+	 20058 :1 :9	(tf:0.111111)	(tf-idf weight:0.063558)
+	 20007 :1 :2	(tf:0.142857)	(tf-idf weight:0.081717)
+	 19975 :1 :8	(tf:0.100000)	(tf-idf weight:0.057202)
+	 19904 :1 :5	(tf:0.142857)	(tf-idf weight:0.081717)
+
+gravedigger     (idf:2.447158)
+	 20034 :1 :4	(tf:0.100000)	(tf-idf weight:0.040864)
+
+gravestones     (idf:2.447158)
+	 20045 :1 :3	(tf:0.083333)	(tf-idf weight:0.034053)
+
+graveyard       (idf:2.447158)
+	 20069 :1 :9	(tf:0.100000)	(tf-idf weight:0.040864)
+
+great           (idf:2.447158)
+	 20002 :1 :10	(tf:0.090909)	(tf-idf weight:0.037149)
+
+green           (idf:2.146128)
+	 20033 :1 :7	(tf:0.125000)	(tf-idf weight:0.058244)
+	 19862 :1 :8	(tf:0.125000)	(tf-idf weight:0.058244)
+
+grey            (idf:2.447158)
+	 198212:1 :2	(tf:0.076923)	(tf-idf weight:0.031434)
+
+grocery         (idf:2.447158)
+	 19884 :1 :6	(tf:0.142857)	(tf-idf weight:0.058377)
+
+growth          (idf:2.447158)
+	 19987 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+guitar          (idf:2.447158)
+	 19905 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+gull's          (idf:2.447158)
+	 19861 :1 :5	(tf:0.142857)	(tf-idf weight:0.058377)
+
+gunshot         (idf:2.447158)
+	 20052 :1 :1	(tf:0.166667)	(tf-idf weight:0.068106)
+
+hair            (idf:2.447158)
+	 19852 :1 :9	(tf:0.083333)	(tf-idf weight:0.034053)
+
+half            (idf:2.146128)
+	 19942 :1 :7	(tf:0.083333)	(tf-idf weight:0.038830)
+	 19879 :1 :6	(tf:0.125000)	(tf-idf weight:0.058244)
+
+hammer          (idf:2.447158)
+	 19857 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+hammock         (idf:2.447158)
+	 20074 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+hand            (idf:1.748188)
+	 20027 :1 :10	(tf:0.083333)	(tf-idf weight:0.047668)
+	 19952 :1 :8	(tf:0.083333)	(tf-idf weight:0.047668)
+	 19946 :1 :9	(tf:0.111111)	(tf-idf weight:0.063558)
+	 19857 :1 :8	(tf:0.125000)	(tf-idf weight:0.071503)
+	 19839 :1 :9	(tf:0.111111)	(tf-idf weight:0.063558)
+
+hands           (idf:1.968483)
+	 19961 :1 :10	(tf:0.100000)	(tf-idf weight:0.050801)
+	 19894 :1 :3	(tf:0.100000)	(tf-idf weight:0.050801)
+	 19858 :1 :9	(tf:0.111111)	(tf-idf weight:0.056445)
+
+harvest         (idf:2.447158)
+	 20144 :1 :9	(tf:0.100000)	(tf-idf weight:0.040864)
+
+hawk            (idf:2.447158)
+	 19762 :1 :4	(tf:0.111111)	(tf-idf weight:0.045404)
+
+hazy            (idf:2.447158)
+	 20069 :1 :1	(tf:0.100000)	(tf-idf weight:0.040864)
+
+headlights      (idf:2.447158)
+	 19981 :1 :7	(tf:0.142857)	(tf-idf weight:0.058377)
+
+heart           (idf:2.146128)
+	 20004 :1 :5	(tf:0.142857)	(tf-idf weight:0.066565)
+	 19831 :1 :1	(tf:0.111111)	(tf-idf weight:0.051773)
+
+heartwood       (idf:2.447158)
+	 20132 :1 :1	(tf:0.166667)	(tf-idf weight:0.068106)
+
+heat            (idf:2.146128)
+	 20012 :1 :1	(tf:0.090909)	(tf-idf weight:0.042360)
+	 198713:1 :2	(tf:0.125000)	(tf-idf weight:0.058244)
+
+heron           (idf:2.447158)
+	 19936 :1 :10	(tf:0.100000)	(tf-idf weight:0.040864)
+
+hide            (idf:2.146128)
+	 20045 :1 :10	(tf:0.083333)	(tf-idf weight:0.038830)
+	 19855 :1 :5	(tf:0.100000)	(tf-idf weight:0.046596)
+
+high            (idf:2.447158)
+	 20003 :1 :3	(tf:0.100000)	(tf-idf weight:0.040864)
+
+highest         (idf:2.447158)
+	 20054 :1 :9	(tf:0.100000)	(tf-idf weight:0.040864)
+
+hike            (idf:2.447158)
+	 20002 :1 :2	(tf:0.090909)	(tf-idf weight:0.037149)
+
+hill            (idf:2.447158)
+	 19997 :1 :10	(tf:0.100000)	(tf-idf weight:0.040864)
+
+hip             (idf:2.447158)
+	 20012 :1 :11	(tf:0.090909)	(tf-idf weight:0.037149)
+
+hitchhiker      (idf:2.447158)
+	 20012 :1 :4	(tf:0.090909)	(tf-idf weight:0.037149)
+
+hoeing          (idf:2.447158)
+	 19922 :1 :12	(tf:0.083333)	(tf-idf weight:0.034053)
+
+holds           (idf:2.447158)
+	 19796 :1 :12	(tf:0.055556)	(tf-idf weight:0.022702)
+
+home            (idf:1.968483)
+	 20148 :1 :5	(tf:0.200000)	(tf-idf weight:0.101601)
+	 19997 :1 :2	(tf:0.100000)	(tf-idf weight:0.050801)
+	 19872 :1 :2	(tf:0.100000)	(tf-idf weight:0.050801)
+
+homeless        (idf:2.447158)
+	 20027 :1 :6	(tf:0.083333)	(tf-idf weight:0.034053)
+
+hood            (idf:2.447158)
+	 20142 :1 :9	(tf:0.111111)	(tf-idf weight:0.045404)
+
+horizon         (idf:2.447158)
+	 19821 :1 :1	(tf:0.125000)	(tf-idf weight:0.051080)
+
+horns           (idf:2.447158)
+	 19825 :1 :1	(tf:0.125000)	(tf-idf weight:0.051080)
+
+horse           (idf:2.447158)
+	 19913 :1 :3	(tf:0.111111)	(tf-idf weight:0.045404)
+
+hospital        (idf:2.146128)
+	 20149 :1 :7	(tf:0.125000)	(tf-idf weight:0.058244)
+	 19982 :1 :4	(tf:0.125000)	(tf-idf weight:0.058244)
+
+hot             (idf:1.845098)
+	 20137 :1 :3	(tf:0.083333)	(tf-idf weight:0.045165)
+	 198712:1 :7	(tf:0.076923)	(tf-idf weight:0.041691)
+	 19837 :1 :1	(tf:0.125000)	(tf-idf weight:0.067747)
+	 198011:1 :5	(tf:0.142857)	(tf-idf weight:0.077425)
+
+house           (idf:1.845098)
+	 20091 :1 :2	(tf:0.090909)	(tf-idf weight:0.049271)
+	 19947 :1 :7	(tf:0.142857)	(tf-idf weight:0.077425)
+	 19935 :1 :4	(tf:0.111111)	(tf-idf weight:0.060220)
+	 19879 :1 :8	(tf:0.125000)	(tf-idf weight:0.067747)
+
+huddle          (idf:2.447158)
+	 20125 :1 :2	(tf:0.111111)	(tf-idf weight:0.045404)
+
+hum             (idf:2.447158)
+	 20142 :1 :4	(tf:0.111111)	(tf-idf weight:0.045404)
+
+humid           (idf:2.146128)
+	 20026 :1 :1	(tf:0.100000)	(tf-idf weight:0.046596)
+	 198011:1 :6	(tf:0.142857)	(tf-idf weight:0.066565)
+
+hunter's        (idf:2.447158)
+	 20103 :1 :1	(tf:0.125000)	(tf-idf weight:0.051080)
+
+hunters         (idf:2.447158)
+	 20137 :1 :11	(tf:0.083333)	(tf-idf weight:0.034053)
+
+hurdles         (idf:2.447158)
+	 20095 :1 :5	(tf:0.111111)	(tf-idf weight:0.045404)
+
+husband         (idf:2.447158)
+	 19862 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+ice             (idf:1.845098)
+	 19957 :1 :3	(tf:0.142857)	(tf-idf weight:0.077425)
+	 19873 :1 :8	(tf:0.125000)	(tf-idf weight:0.067747)
+	 19842 :1 :9	(tf:0.111111)	(tf-idf weight:0.060220)
+	 19832 :1 :10	(tf:0.100000)	(tf-idf weight:0.054198)
+
+image           (idf:2.447158)
+	 19762 :1 :9	(tf:0.111111)	(tf-idf weight:0.045404)
+
+incense         (idf:2.447158)
+	 19851 :1 :5	(tf:0.142857)	(tf-idf weight:0.058377)
+
+indian          (idf:1.968483)
+	 20041 :1 :1	(tf:0.142857)	(tf-idf weight:0.072572)
+	 20014 :1 :1	(tf:0.111111)	(tf-idf weight:0.056445)
+	 19831 :1 :8	(tf:0.111111)	(tf-idf weight:0.056445)
+
+injection       (idf:2.447158)
+	 20005 :1 :2	(tf:0.111111)	(tf-idf weight:0.045404)
+
+inside          (idf:1.845098)
+	 19964 :1 :3	(tf:0.200000)	(tf-idf weight:0.108395)
+	 198211:1 :3	(tf:0.142857)	(tf-idf weight:0.077425)
+	 19806 :1 :6	(tf:0.100000)	(tf-idf weight:0.054198)
+	 19807 :1 :5	(tf:0.200000)	(tf-idf weight:0.108395)
+
+intact          (idf:2.447158)
+	 20063 :1 :4	(tf:0.111111)	(tf-idf weight:0.045404)
+
+its             (idf:1.447158)
+	 20132 :1 :5	(tf:0.166667)	(tf-idf weight:0.115168)
+	 20093 :1 :13	(tf:0.071429)	(tf-idf weight:0.049358)
+	 20004 :1 :4	(tf:0.142857)	(tf-idf weight:0.098716)
+	 19974 :1 :5	(tf:0.111111)	(tf-idf weight:0.076779)
+	 19895 :1 :5	(tf:0.100000)	(tf-idf weight:0.069101)
+	 19863 :1 :6	(tf:0.142857)	(tf-idf weight:0.098716)
+	 19854 :1 :3	(tf:0.090909)	(tf-idf weight:0.062819)
+	 19832 :1 :6	(tf:0.100000)	(tf-idf weight:0.069101)
+	 19827 :1 :8	(tf:0.100000)	(tf-idf weight:0.069101)
+	 19762 :1 :8	(tf:0.111111)	(tf-idf weight:0.076779)
+
+ivy             (idf:2.447158)
+	 20016 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+jar             (idf:2.146128)
+	 20072 :1 :2	(tf:0.100000)	(tf-idf weight:0.046596)
+	 19826 :1 :8	(tf:0.090909)	(tf-idf weight:0.042360)
+
+jars            (idf:2.447158)
+	 19871 :1 :6	(tf:0.166667)	(tf-idf weight:0.068106)
+
+juice           (idf:2.447158)
+	 19895 :1 :7	(tf:0.100000)	(tf-idf weight:0.040864)
+
+july            (idf:2.447158)
+	 20026 :1 :2	(tf:0.100000)	(tf-idf weight:0.040864)
+
+junco           (idf:2.447158)
+	 20093 :1 :8	(tf:0.071429)	(tf-idf weight:0.029188)
+
+june            (idf:2.447158)
+	 19874 :1 :1	(tf:0.125000)	(tf-idf weight:0.051080)
+
+junk            (idf:2.447158)
+	 20142 :1 :1	(tf:0.111111)	(tf-idf weight:0.045404)
+
+just            (idf:2.447158)
+	 19898 :1 :7	(tf:0.125000)	(tf-idf weight:0.051080)
+
+kayak           (idf:2.447158)
+	 19992 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+kelp            (idf:2.447158)
+	 20071 :1 :7	(tf:0.111111)	(tf-idf weight:0.045404)
+
+kettle          (idf:2.447158)
+	 19985 :1 :2	(tf:0.090909)	(tf-idf weight:0.037149)
+
+kimono          (idf:2.447158)
+	 20033 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+kitchen         (idf:2.447158)
+	 19921 :1 :9	(tf:0.111111)	(tf-idf weight:0.045404)
+
+kite            (idf:2.447158)
+	 20024 :1 :9	(tf:0.111111)	(tf-idf weight:0.045404)
+
+knees           (idf:2.447158)
+	 19911 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+knots           (idf:2.447158)
+	 20071 :1 :9	(tf:0.111111)	(tf-idf weight:0.045404)
+
+know            (idf:2.447158)
+	 20004 :1 :3	(tf:0.142857)	(tf-idf weight:0.058377)
+
+ladder          (idf:2.447158)
+	 20113 :1 :7	(tf:0.125000)	(tf-idf weight:0.051080)
+
+lady            (idf:2.447158)
+	 19843 :1 :9	(tf:0.111111)	(tf-idf weight:0.045404)
+
+lake            (idf:2.146128)
+	 20052 :1 :6	(tf:0.166667)	(tf-idf weight:0.077659)
+	 19762 :1 :2	(tf:0.111111)	(tf-idf weight:0.051773)
+
+land's          (idf:2.447158)
+	 20013 :1 :1	(tf:0.111111)	(tf-idf weight:0.045404)
+
+language        (idf:2.447158)
+	 20126 :1 :7	(tf:0.100000)	(tf-idf weight:0.040864)
+
+languages       (idf:2.447158)
+	 20136 :1 :4	(tf:0.166667)	(tf-idf weight:0.068106)
+
+lap             (idf:2.447158)
+	 19796 :1 :5	(tf:0.055556)	(tf-idf weight:0.022702)
+
+large           (idf:2.447158)
+	 19899 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+last            (idf:2.146128)
+	 20055 :1 :7	(tf:0.090909)	(tf-idf weight:0.042360)
+	 19902 :1 :10	(tf:0.083333)	(tf-idf weight:0.038830)
+
+latches         (idf:2.447158)
+	 20034 :1 :5	(tf:0.100000)	(tf-idf weight:0.040864)
+
+late            (idf:2.146128)
+	 19984 :1 :1	(tf:0.083333)	(tf-idf weight:0.038830)
+	 19933 :1 :3	(tf:0.083333)	(tf-idf weight:0.038830)
+
+lavender        (idf:2.447158)
+	 19963 :1 :7	(tf:0.100000)	(tf-idf weight:0.040864)
+
+lawless         (idf:2.447158)
+	 20125 :1 :8	(tf:0.111111)	(tf-idf weight:0.045404)
+
+lead            (idf:2.447158)
+	 20093 :1 :9	(tf:0.071429)	(tf-idf weight:0.029188)
+
+leading         (idf:2.447158)
+	 19977 :1 :3	(tf:0.083333)	(tf-idf weight:0.034053)
+
+leaf            (idf:1.968483)
+	 19974 :1 :1	(tf:0.111111)	(tf-idf weight:0.056445)
+	 19954 :1 :12	(tf:0.083333)	(tf-idf weight:0.042334)
+	 19941 :1 :11	(tf:0.090909)	(tf-idf weight:0.046182)
+
+lean            (idf:2.146128)
+	 19994 :1 :5	(tf:0.125000)	(tf-idf weight:0.058244)
+	 19793 :1 :1	(tf:0.166667)	(tf-idf weight:0.077659)
+
+leans           (idf:2.447158)
+	 20061 :1 :6	(tf:0.111111)	(tf-idf weight:0.045404)
+
+learning        (idf:2.447158)
+	 19933 :1 :1	(tf:0.083333)	(tf-idf weight:0.034053)
+
+leave           (idf:2.447158)
+	 19996 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+leaves          (idf:1.491362)
+	 20112 :1 :7	(tf:0.142857)	(tf-idf weight:0.095790)
+	 20094 :1 :2	(tf:0.111111)	(tf-idf weight:0.074503)
+	 20032 :1 :8	(tf:0.125000)	(tf-idf weight:0.083816)
+	 19947 :1 :2	(tf:0.142857)	(tf-idf weight:0.095790)
+	 19935 :1 :2	(tf:0.111111)	(tf-idf weight:0.074503)
+	 19903 :1 :2	(tf:0.125000)	(tf-idf weight:0.083816)
+	 19907 :1 :7	(tf:0.090909)	(tf-idf weight:0.060957)
+	 19908 :1 :2	(tf:0.142857)	(tf-idf weight:0.095790)
+	 19812 :1 :8	(tf:0.083333)	(tf-idf weight:0.055877)
+
+leaving         (idf:1.968483)
+	 19936 :1 :1	(tf:0.100000)	(tf-idf weight:0.050801)
+	 19872 :1 :1	(tf:0.100000)	(tf-idf weight:0.050801)
+	 19781 :1 :1	(tf:0.166667)	(tf-idf weight:0.084668)
+
+lecture         (idf:2.447158)
+	 19877 :1 :3	(tf:0.100000)	(tf-idf weight:0.040864)
+
+left            (idf:1.845098)
+	 20146 :1 :5	(tf:0.125000)	(tf-idf weight:0.067747)
+	 20138 :1 :6	(tf:0.111111)	(tf-idf weight:0.060220)
+	 20007 :1 :5	(tf:0.142857)	(tf-idf weight:0.077425)
+	 198210:1 :3	(tf:0.166667)	(tf-idf weight:0.090329)
+
+legged          (idf:2.447158)
+	 19864 :1 :3	(tf:0.100000)	(tf-idf weight:0.040864)
+
+legs            (idf:2.447158)
+	 20119 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+lemonade        (idf:2.447158)
+	 20072 :1 :7	(tf:0.100000)	(tf-idf weight:0.040864)
+
+length          (idf:2.447158)
+	 20052 :1 :3	(tf:0.166667)	(tf-idf weight:0.068106)
+
+lengthening     (idf:2.447158)
+	 20113 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+let             (idf:2.447158)
+	 20093 :1 :6	(tf:0.071429)	(tf-idf weight:0.029188)
+
+lethal          (idf:2.447158)
+	 20005 :1 :1	(tf:0.111111)	(tf-idf weight:0.045404)
+
+letting         (idf:2.447158)
+	 19951 :1 :1	(tf:0.076923)	(tf-idf weight:0.031434)
+
+lifeline        (idf:2.447158)
+	 19974 :1 :9	(tf:0.111111)	(tf-idf weight:0.045404)
+
+lifting         (idf:2.146128)
+	 19883 :1 :2	(tf:0.333333)	(tf-idf weight:0.155318)
+	 19833 :1 :2	(tf:0.200000)	(tf-idf weight:0.093191)
+
+light           (idf:1.662758)
+	 20084 :1 :6	(tf:0.125000)	(tf-idf weight:0.075176)
+	 20075 :1 :8	(tf:0.125000)	(tf-idf weight:0.075176)
+	 19861 :1 :1	(tf:0.142857)	(tf-idf weight:0.085916)
+	 198310:1 :9	(tf:0.111111)	(tf-idf weight:0.066823)
+	 19808 :1 :9	(tf:0.100000)	(tf-idf weight:0.060141)
+	 197911:1 :6	(tf:0.100000)	(tf-idf weight:0.060141)
+
+lightning       (idf:2.146128)
+	 20145 :1 :2	(tf:0.142857)	(tf-idf weight:0.066565)
+	 20073 :1 :1	(tf:0.111111)	(tf-idf weight:0.051773)
+
+lights          (idf:1.968483)
+	 20116 :1 :2	(tf:0.125000)	(tf-idf weight:0.063501)
+	 20061 :1 :3	(tf:0.111111)	(tf-idf weight:0.056445)
+	 19807 :1 :1	(tf:0.200000)	(tf-idf weight:0.101601)
+
+like            (idf:2.447158)
+	 19933 :1 :6	(tf:0.083333)	(tf-idf weight:0.034053)
+
+lilies          (idf:2.146128)
+	 20106 :1 :2	(tf:0.100000)	(tf-idf weight:0.046596)
+	 197910:1 :4	(tf:0.100000)	(tf-idf weight:0.046596)
+
+lily            (idf:2.447158)
+	 20113 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+line            (idf:2.146128)
+	 198212:1 :9	(tf:0.076923)	(tf-idf weight:0.035843)
+	 19798 :1 :9	(tf:0.090909)	(tf-idf weight:0.042360)
+
+lines           (idf:2.447158)
+	 19964 :1 :5	(tf:0.200000)	(tf-idf weight:0.081727)
+
+lip             (idf:2.447158)
+	 20053 :1 :6	(tf:0.090909)	(tf-idf weight:0.037149)
+
+listening       (idf:2.447158)
+	 19884 :1 :3	(tf:0.142857)	(tf-idf weight:0.058377)
+
+lit             (idf:2.447158)
+	 19952 :1 :3	(tf:0.083333)	(tf-idf weight:0.034053)
+
+little          (idf:2.447158)
+	 19897 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+locust          (idf:2.447158)
+	 19913 :1 :9	(tf:0.111111)	(tf-idf weight:0.045404)
+
+lone            (idf:2.447158)
+	 19906 :1 :3	(tf:0.090909)	(tf-idf weight:0.037149)
+
+long            (idf:1.748188)
+	 20136 :1 :5	(tf:0.166667)	(tf-idf weight:0.095337)
+	 20126 :1 :2	(tf:0.100000)	(tf-idf weight:0.057202)
+	 19963 :1 :4	(tf:0.100000)	(tf-idf weight:0.057202)
+	 19918 :1 :3	(tf:0.125000)	(tf-idf weight:0.071503)
+	 19824 :1 :12	(tf:0.071429)	(tf-idf weight:0.040859)
+
+looks           (idf:2.447158)
+	 19904 :1 :6	(tf:0.142857)	(tf-idf weight:0.058377)
+
+loon            (idf:2.447158)
+	 20021 :1 :1	(tf:0.111111)	(tf-idf weight:0.045404)
+
+loon's          (idf:2.447158)
+	 19833 :1 :4	(tf:0.200000)	(tf-idf weight:0.081727)
+
+loosening       (idf:2.447158)
+	 19971 :1 :8	(tf:0.111111)	(tf-idf weight:0.045404)
+
+losing          (idf:2.447158)
+	 20043 :1 :10	(tf:0.083333)	(tf-idf weight:0.034053)
+
+lost            (idf:2.146128)
+	 19865 :1 :3	(tf:0.166667)	(tf-idf weight:0.077659)
+	 19803 :1 :14	(tf:0.066667)	(tf-idf weight:0.031064)
+
+lottery         (idf:2.447158)
+	 19893 :1 :8	(tf:0.111111)	(tf-idf weight:0.045404)
+
+lower           (idf:2.447158)
+	 19992 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+makes           (idf:2.447158)
+	 19762 :1 :5	(tf:0.111111)	(tf-idf weight:0.045404)
+
+mallard         (idf:2.447158)
+	 20064 :1 :1	(tf:0.142857)	(tf-idf weight:0.058377)
+
+man             (idf:1.748188)
+	 20027 :1 :7	(tf:0.083333)	(tf-idf weight:0.047668)
+	 19836 :1 :4	(tf:0.071429)	(tf-idf weight:0.040859)
+	 19839 :1 :3	(tf:0.111111)	(tf-idf weight:0.063558)
+	 19802 :1 :6	(tf:0.090909)	(tf-idf weight:0.052002)
+	 19793 :1 :2	(tf:0.166667)	(tf-idf weight:0.095337)
+
+many            (idf:1.968483)
+	 20124 :1 :6	(tf:0.090909)	(tf-idf weight:0.046182)
+	 19932 :1 :5	(tf:0.111111)	(tf-idf weight:0.056445)
+	 19891 :1 :2	(tf:0.100000)	(tf-idf weight:0.050801)
+
+map             (idf:2.447158)
+	 20124 :1 :4	(tf:0.090909)	(tf-idf weight:0.037149)
+
+marbles         (idf:2.447158)
+	 20075 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+march           (idf:2.447158)
+	 20058 :1 :1	(tf:0.111111)	(tf-idf weight:0.045404)
+
+marked          (idf:2.447158)
+	 20133 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+mason           (idf:2.447158)
+	 19871 :1 :5	(tf:0.166667)	(tf-idf weight:0.068106)
+
+matter          (idf:2.447158)
+	 20118 :1 :5	(tf:0.100000)	(tf-idf weight:0.040864)
+
+meadow          (idf:2.447158)
+	 20022 :1 :6	(tf:0.100000)	(tf-idf weight:0.040864)
+
+meant           (idf:2.447158)
+	 20067 :1 :7	(tf:0.090909)	(tf-idf weight:0.037149)
+
+melt            (idf:2.447158)
+	 19946 :1 :6	(tf:0.111111)	(tf-idf weight:0.045404)
+
+memorial        (idf:2.447158)
+	 19934 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+memory          (idf:2.447158)
+	 19828 :1 :4	(tf:0.111111)	(tf-idf weight:0.045404)
+
+meteor          (idf:2.146128)
+	 20023 :1 :10	(tf:0.090909)	(tf-idf weight:0.042360)
+	 20001 :1 :1	(tf:0.125000)	(tf-idf weight:0.058244)
+
+mid             (idf:2.447158)
+	 20073 :1 :8	(tf:0.111111)	(tf-idf weight:0.045404)
+
+migrating       (idf:2.146128)
+	 19934 :1 :4	(tf:0.125000)	(tf-idf weight:0.058244)
+	 19841 :1 :1	(tf:0.111111)	(tf-idf weight:0.051773)
+
+mime            (idf:2.146128)
+	 19883 :1 :1	(tf:0.333333)	(tf-idf weight:0.155318)
+	 19822 :1 :4	(tf:0.125000)	(tf-idf weight:0.058244)
+
+mince           (idf:2.447158)
+	 20081 :1 :5	(tf:0.166667)	(tf-idf weight:0.068106)
+
+minutes         (idf:2.447158)
+	 20081 :1 :3	(tf:0.166667)	(tf-idf weight:0.068106)
+
+mirror          (idf:2.447158)
+	 19982 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+miss            (idf:2.447158)
+	 19946 :1 :5	(tf:0.111111)	(tf-idf weight:0.045404)
+
+missal          (idf:2.447158)
+	 20043 :1 :9	(tf:0.083333)	(tf-idf weight:0.034053)
+
+mist            (idf:2.146128)
+	 198712:1 :13	(tf:0.076923)	(tf-idf weight:0.035843)
+	 19833 :1 :1	(tf:0.200000)	(tf-idf weight:0.093191)
+
+model's         (idf:2.447158)
+	 19896 :1 :6	(tf:0.083333)	(tf-idf weight:0.034053)
+
+moon            (idf:1.230449)
+	 20144 :1 :10	(tf:0.100000)	(tf-idf weight:0.081271)
+	 20146 :1 :8	(tf:0.125000)	(tf-idf weight:0.101589)
+	 20135 :1 :2	(tf:0.125000)	(tf-idf weight:0.101589)
+	 20137 :1 :12	(tf:0.083333)	(tf-idf weight:0.067726)
+	 20111 :1 :2	(tf:0.125000)	(tf-idf weight:0.101589)
+	 20092 :1 :2	(tf:0.111111)	(tf-idf weight:0.090301)
+	 19984 :1 :9	(tf:0.083333)	(tf-idf weight:0.067726)
+	 19977 :1 :6	(tf:0.083333)	(tf-idf weight:0.067726)
+	 19931 :1 :5	(tf:0.111111)	(tf-idf weight:0.090301)
+	 19879 :1 :2	(tf:0.125000)	(tf-idf weight:0.101589)
+	 19822 :1 :8	(tf:0.125000)	(tf-idf weight:0.101589)
+	 19829 :1 :6	(tf:0.142857)	(tf-idf weight:0.116102)
+	 198213:1 :9	(tf:0.076923)	(tf-idf weight:0.062516)
+	 19801 :1 :9	(tf:0.111111)	(tf-idf weight:0.090301)
+	 198010:1 :6	(tf:0.166667)	(tf-idf weight:0.135452)
+	 19791 :1 :6	(tf:0.111111)	(tf-idf weight:0.090301)
+
+moonlight       (idf:1.845098)
+	 20147 :1 :5	(tf:0.111111)	(tf-idf weight:0.060220)
+	 20121 :1 :4	(tf:0.200000)	(tf-idf weight:0.108395)
+	 19801 :1 :6	(tf:0.111111)	(tf-idf weight:0.060220)
+	 19771 :1 :8	(tf:0.125000)	(tf-idf weight:0.067747)
+
+morning         (idf:1.361728)
+	 201410:1 :2	(tf:0.142857)	(tf-idf weight:0.104909)
+	 20091 :1 :9	(tf:0.090909)	(tf-idf weight:0.066760)
+	 20032 :1 :3	(tf:0.125000)	(tf-idf weight:0.091795)
+	 19995 :1 :1	(tf:0.100000)	(tf-idf weight:0.073436)
+	 19962 :1 :8	(tf:0.125000)	(tf-idf weight:0.091795)
+	 19945 :1 :2	(tf:0.090909)	(tf-idf weight:0.066760)
+	 19923 :1 :2	(tf:0.100000)	(tf-idf weight:0.073436)
+	 19905 :1 :1	(tf:0.125000)	(tf-idf weight:0.091795)
+	 19802 :1 :2	(tf:0.090909)	(tf-idf weight:0.066760)
+	 19794 :1 :1	(tf:0.125000)	(tf-idf weight:0.091795)
+	 197911:1 :8	(tf:0.100000)	(tf-idf weight:0.073436)
+	 19781 :1 :4	(tf:0.166667)	(tf-idf weight:0.122394)
+
+moth            (idf:2.447158)
+	 20084 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+mother          (idf:1.845098)
+	 20125 :1 :4	(tf:0.111111)	(tf-idf weight:0.060220)
+	 20115 :1 :1	(tf:0.111111)	(tf-idf weight:0.060220)
+	 19874 :1 :4	(tf:0.125000)	(tf-idf weight:0.067747)
+	 19809 :1 :9	(tf:0.100000)	(tf-idf weight:0.054198)
+
+motion          (idf:2.447158)
+	 19972 :1 :7	(tf:0.100000)	(tf-idf weight:0.040864)
+
+mountain        (idf:1.845098)
+	 20118 :1 :9	(tf:0.100000)	(tf-idf weight:0.054198)
+	 20066 :1 :11	(tf:0.090909)	(tf-idf weight:0.049271)
+	 20002 :1 :1	(tf:0.090909)	(tf-idf weight:0.049271)
+	 19805 :1 :7	(tf:0.125000)	(tf-idf weight:0.067747)
+
+mountains       (idf:2.146128)
+	 20095 :1 :2	(tf:0.111111)	(tf-idf weight:0.051773)
+	 19943 :1 :3	(tf:0.125000)	(tf-idf weight:0.058244)
+
+mourning        (idf:2.447158)
+	 19922 :1 :1	(tf:0.083333)	(tf-idf weight:0.034053)
+
+mouth           (idf:2.447158)
+	 20027 :1 :12	(tf:0.083333)	(tf-idf weight:0.034053)
+
+moving          (idf:2.447158)
+	 19843 :1 :1	(tf:0.111111)	(tf-idf weight:0.045404)
+
+much            (idf:2.447158)
+	 19841 :1 :7	(tf:0.111111)	(tf-idf weight:0.045404)
+
+mud             (idf:2.146128)
+	 20122 :1 :2	(tf:0.166667)	(tf-idf weight:0.077659)
+	 19893 :1 :3	(tf:0.111111)	(tf-idf weight:0.051773)
+
+musty           (idf:2.447158)
+	 19976 :1 :1	(tf:0.142857)	(tf-idf weight:0.058377)
+
+mynah           (idf:2.447158)
+	 19827 :1 :2	(tf:0.100000)	(tf-idf weight:0.040864)
+
+n               (idf:2.447158)
+	 20045 :1 :11	(tf:0.083333)	(tf-idf weight:0.034053)
+
+nail            (idf:2.447158)
+	 19875 :1 :11	(tf:0.090909)	(tf-idf weight:0.037149)
+
+nailed          (idf:2.447158)
+	 20124 :1 :8	(tf:0.090909)	(tf-idf weight:0.037149)
+
+name            (idf:2.146128)
+	 20101 :1 :5	(tf:0.100000)	(tf-idf weight:0.046596)
+	 20057 :1 :12	(tf:0.083333)	(tf-idf weight:0.038830)
+
+names           (idf:1.968483)
+	 20045 :1 :5	(tf:0.083333)	(tf-idf weight:0.042334)
+	 19932 :1 :6	(tf:0.111111)	(tf-idf weight:0.056445)
+	 19934 :1 :8	(tf:0.125000)	(tf-idf weight:0.063501)
+
+native          (idf:2.447158)
+	 20136 :1 :3	(tf:0.166667)	(tf-idf weight:0.068106)
+
+navajo          (idf:2.447158)
+	 20111 :1 :1	(tf:0.125000)	(tf-idf weight:0.051080)
+
+near            (idf:1.968483)
+	 20031 :1 :5	(tf:0.125000)	(tf-idf weight:0.063501)
+	 20021 :1 :7	(tf:0.111111)	(tf-idf weight:0.056445)
+	 19804 :1 :7	(tf:0.071429)	(tf-idf weight:0.036286)
+
+neck            (idf:2.447158)
+	 19863 :1 :7	(tf:0.142857)	(tf-idf weight:0.058377)
+
+necks           (idf:2.447158)
+	 19956 :1 :6	(tf:0.125000)	(tf-idf weight:0.051080)
+
+needle          (idf:2.447158)
+	 19811 :1 :9	(tf:0.111111)	(tf-idf weight:0.045404)
+
+neighbor        (idf:2.447158)
+	 19922 :1 :6	(tf:0.083333)	(tf-idf weight:0.034053)
+
+neighbors       (idf:2.447158)
+	 19876 :1 :3	(tf:0.100000)	(tf-idf weight:0.040864)
+
+nest            (idf:2.447158)
+	 20093 :1 :14	(tf:0.071429)	(tf-idf weight:0.029188)
+
+nesting         (idf:2.447158)
+	 19852 :1 :11	(tf:0.083333)	(tf-idf weight:0.034053)
+
+nestlings       (idf:2.447158)
+	 19962 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+net             (idf:2.146128)
+	 20014 :1 :9	(tf:0.111111)	(tf-idf weight:0.051773)
+	 19996 :1 :8	(tf:0.125000)	(tf-idf weight:0.058244)
+
+never           (idf:2.146128)
+	 19899 :1 :7	(tf:0.125000)	(tf-idf weight:0.058244)
+	 197910:1 :1	(tf:0.100000)	(tf-idf weight:0.046596)
+
+new             (idf:1.748188)
+	 20068 :1 :4	(tf:0.142857)	(tf-idf weight:0.081717)
+	 19991 :1 :1	(tf:0.125000)	(tf-idf weight:0.071503)
+	 19994 :1 :1	(tf:0.125000)	(tf-idf weight:0.071503)
+	 19904 :1 :4	(tf:0.142857)	(tf-idf weight:0.081717)
+	 19892 :1 :9	(tf:0.083333)	(tf-idf weight:0.047668)
+
+newborn         (idf:2.447158)
+	 20003 :1 :8	(tf:0.100000)	(tf-idf weight:0.040864)
+
+news            (idf:2.447158)
+	 19796 :1 :15	(tf:0.055556)	(tf-idf weight:0.022702)
+
+night           (idf:1.544068)
+	 20134 :1 :7	(tf:0.125000)	(tf-idf weight:0.080955)
+	 20065 :1 :5	(tf:0.111111)	(tf-idf weight:0.071960)
+	 19984 :1 :4	(tf:0.083333)	(tf-idf weight:0.053970)
+	 19885 :1 :11	(tf:0.090909)	(tf-idf weight:0.058876)
+	 19874 :1 :2	(tf:0.125000)	(tf-idf weight:0.080955)
+	 19869 :1 :7	(tf:0.125000)	(tf-idf weight:0.080955)
+	 19824 :1 :14	(tf:0.071429)	(tf-idf weight:0.046260)
+	 19799 :1 :4	(tf:0.100000)	(tf-idf weight:0.064764)
+
+night's         (idf:2.447158)
+	 19902 :1 :11	(tf:0.083333)	(tf-idf weight:0.034053)
+
+ninety          (idf:2.447158)
+	 199111:1 :1	(tf:0.250000)	(tf-idf weight:0.102159)
+
+nipples         (idf:2.447158)
+	 20035 :1 :6	(tf:0.166667)	(tf-idf weight:0.068106)
+
+noodles         (idf:2.447158)
+	 20068 :1 :2	(tf:0.142857)	(tf-idf weight:0.058377)
+
+northern        (idf:2.447158)
+	 20116 :1 :1	(tf:0.125000)	(tf-idf weight:0.051080)
+
+nothing         (idf:2.447158)
+	 19961 :1 :7	(tf:0.100000)	(tf-idf weight:0.040864)
+
+notices         (idf:2.447158)
+	 20015 :1 :9	(tf:0.090909)	(tf-idf weight:0.037149)
+
+november        (idf:2.447158)
+	 197910:1 :6	(tf:0.100000)	(tf-idf weight:0.040864)
+
+now             (idf:2.447158)
+	 19812 :1 :4	(tf:0.083333)	(tf-idf weight:0.034053)
+
+oak             (idf:2.447158)
+	 19902 :1 :8	(tf:0.083333)	(tf-idf weight:0.034053)
+
+ocean           (idf:2.447158)
+	 20024 :1 :1	(tf:0.111111)	(tf-idf weight:0.045404)
+
+old             (idf:1.146128)
+	 20094 :1 :5	(tf:0.111111)	(tf-idf weight:0.096945)
+	 20054 :1 :4	(tf:0.100000)	(tf-idf weight:0.087250)
+	 20026 :1 :9	(tf:0.100000)	(tf-idf weight:0.087250)
+	 19998 :1 :7	(tf:0.083333)	(tf-idf weight:0.072709)
+	 19987 :1 :2	(tf:0.125000)	(tf-idf weight:0.109063)
+	 19951 :1 :12	(tf:0.076923)	(tf-idf weight:0.067116)
+	 19941 :1 :1	(tf:0.090909)	(tf-idf weight:0.079318)
+	 19912 :1 :2	(tf:0.090909)	(tf-idf weight:0.079318)
+	 19903 :1 :4	(tf:0.125000)	(tf-idf weight:0.109063)
+	 19904 :1 :7	(tf:0.142857)	(tf-idf weight:0.124643)
+	 19872 :1 :8	(tf:0.100000)	(tf-idf weight:0.087250)
+	 198711:1 :1	(tf:0.111111)	(tf-idf weight:0.096945)
+	 19831 :1 :7	(tf:0.111111)	(tf-idf weight:0.096945)
+	 19836 :1 :13	(tf:0.071429)	(tf-idf weight:0.062322)
+	 19839 :1 :2	(tf:0.111111)	(tf-idf weight:0.096945)
+	 19829 :1 :1	(tf:0.142857)	(tf-idf weight:0.124643)
+	 19811 :1 :1	(tf:0.111111)	(tf-idf weight:0.096945)
+	 19802 :1 :5	(tf:0.090909)	(tf-idf weight:0.079318)
+	 19771 :1 :1	(tf:0.125000)	(tf-idf weight:0.109063)
+
+one             (idf:1.361728)
+	 20084 :1 :1	(tf:0.125000)	(tf-idf weight:0.091795)
+	 20069 :1 :4	(tf:0.100000)	(tf-idf weight:0.073436)
+	 20056 :1 :6	(tf:0.100000)	(tf-idf weight:0.073436)
+	 19986 :1 :9	(tf:0.100000)	(tf-idf weight:0.073436)
+	 19954 :1 :5	(tf:0.083333)	(tf-idf weight:0.061197)
+	 19946 :1 :3	(tf:0.111111)	(tf-idf weight:0.081596)
+	 19932 :1 :7	(tf:0.111111)	(tf-idf weight:0.081596)
+	 19915 :1 :4	(tf:0.100000)	(tf-idf weight:0.073436)
+	 19902 :1 :7	(tf:0.083333)	(tf-idf weight:0.061197)
+	 19885 :1 :6	(tf:0.090909)	(tf-idf weight:0.066760)
+	 19864 :1 :2	(tf:0.100000)	(tf-idf weight:0.073436)
+	 19792 :1 :1	(tf:0.125000)	(tf-idf weight:0.091795)
+
+onions          (idf:2.447158)
+	 19761 :1 :5	(tf:0.166667)	(tf-idf weight:0.068106)
+
+open            (idf:2.146128)
+	 20125 :1 :6	(tf:0.111111)	(tf-idf weight:0.051773)
+	 19876 :1 :9	(tf:0.100000)	(tf-idf weight:0.046596)
+
+opens           (idf:2.146128)
+	 19978 :1 :3	(tf:0.142857)	(tf-idf weight:0.066565)
+	 19837 :1 :6	(tf:0.125000)	(tf-idf weight:0.058244)
+
+orphaned        (idf:2.447158)
+	 19962 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+outdoor         (idf:2.447158)
+	 20105 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+overcast        (idf:2.447158)
+	 19995 :1 :2	(tf:0.100000)	(tf-idf weight:0.040864)
+
+packet          (idf:2.447158)
+	 20138 :1 :5	(tf:0.111111)	(tf-idf weight:0.045404)
+
+page            (idf:2.146128)
+	 20043 :1 :2	(tf:0.083333)	(tf-idf weight:0.038830)
+	 19998 :1 :4	(tf:0.083333)	(tf-idf weight:0.038830)
+
+pages           (idf:2.447158)
+	 19796 :1 :4	(tf:0.055556)	(tf-idf weight:0.022702)
+
+pail            (idf:2.447158)
+	 19824 :1 :10	(tf:0.071429)	(tf-idf weight:0.029188)
+
+painting        (idf:2.447158)
+	 19862 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+pair            (idf:2.447158)
+	 20064 :1 :2	(tf:0.142857)	(tf-idf weight:0.058377)
+
+palm            (idf:2.447158)
+	 19974 :1 :4	(tf:0.111111)	(tf-idf weight:0.045404)
+
+palms           (idf:2.447158)
+	 20023 :1 :8	(tf:0.090909)	(tf-idf weight:0.037149)
+
+papers          (idf:2.447158)
+	 201410:1 :4	(tf:0.142857)	(tf-idf weight:0.058377)
+
+part            (idf:2.146128)
+	 20057 :1 :9	(tf:0.083333)	(tf-idf weight:0.038830)
+	 19797 :1 :1	(tf:0.083333)	(tf-idf weight:0.038830)
+
+parting         (idf:2.447158)
+	 198010:1 :3	(tf:0.166667)	(tf-idf weight:0.068106)
+
+passed          (idf:2.447158)
+	 20058 :1 :6	(tf:0.111111)	(tf-idf weight:0.045404)
+
+passing         (idf:2.146128)
+	 20119 :1 :2	(tf:0.125000)	(tf-idf weight:0.058244)
+	 19827 :1 :6	(tf:0.100000)	(tf-idf weight:0.046596)
+
+patch           (idf:2.447158)
+	 19892 :1 :7	(tf:0.083333)	(tf-idf weight:0.034053)
+
+path            (idf:1.748188)
+	 20148 :1 :4	(tf:0.200000)	(tf-idf weight:0.114404)
+	 20032 :1 :5	(tf:0.125000)	(tf-idf weight:0.071503)
+	 19954 :1 :3	(tf:0.083333)	(tf-idf weight:0.047668)
+	 19902 :1 :3	(tf:0.083333)	(tf-idf weight:0.047668)
+	 19812 :1 :2	(tf:0.083333)	(tf-idf weight:0.047668)
+
+peacock         (idf:2.447158)
+	 19813 :1 :4	(tf:0.090909)	(tf-idf weight:0.037149)
+
+pebble          (idf:2.447158)
+	 20085 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+pedal           (idf:2.447158)
+	 20082 :1 :7	(tf:0.111111)	(tf-idf weight:0.045404)
+
+peering         (idf:2.447158)
+	 19879 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+pennies         (idf:2.447158)
+	 20072 :1 :4	(tf:0.100000)	(tf-idf weight:0.040864)
+
+perishable      (idf:2.447158)
+	 19805 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+petals          (idf:2.146128)
+	 20025 :1 :10	(tf:0.090909)	(tf-idf weight:0.042360)
+	 19951 :1 :8	(tf:0.076923)	(tf-idf weight:0.035843)
+
+phoning         (idf:2.447158)
+	 19876 :1 :1	(tf:0.100000)	(tf-idf weight:0.040864)
+
+picking         (idf:2.447158)
+	 19828 :1 :1	(tf:0.111111)	(tf-idf weight:0.045404)
+
+picks           (idf:2.447158)
+	 19832 :1 :5	(tf:0.100000)	(tf-idf weight:0.040864)
+
+pictures        (idf:2.447158)
+	 19809 :1 :6	(tf:0.100000)	(tf-idf weight:0.040864)
+
+pie             (idf:2.447158)
+	 20081 :1 :6	(tf:0.166667)	(tf-idf weight:0.068106)
+
+piece           (idf:2.447158)
+	 19986 :1 :4	(tf:0.100000)	(tf-idf weight:0.040864)
+
+pieces          (idf:2.447158)
+	 19931 :1 :9	(tf:0.111111)	(tf-idf weight:0.045404)
+
+pines           (idf:2.146128)
+	 19984 :1 :12	(tf:0.083333)	(tf-idf weight:0.038830)
+	 19943 :1 :5	(tf:0.125000)	(tf-idf weight:0.058244)
+
+pink            (idf:2.447158)
+	 20035 :1 :5	(tf:0.166667)	(tf-idf weight:0.068106)
+
+place           (idf:2.447158)
+	       :1 :5	(tf:0.100000)	(tf-idf weight:0.040864)
+
+placing         (idf:2.447158)
+	 20063 :1 :3	(tf:0.111111)	(tf-idf weight:0.045404)
+
+plastic         (idf:2.146128)
+	 20007 :1 :6	(tf:0.142857)	(tf-idf weight:0.066565)
+	 19917 :1 :6	(tf:0.100000)	(tf-idf weight:0.046596)
+
+play            (idf:2.146128)
+	 20116 :1 :5	(tf:0.125000)	(tf-idf weight:0.058244)
+	 20045 :1 :9	(tf:0.083333)	(tf-idf weight:0.038830)
+
+playing         (idf:2.447158)
+	 19855 :1 :4	(tf:0.100000)	(tf-idf weight:0.040864)
+
+plot            (idf:2.447158)
+	 19916 :1 :4	(tf:0.090909)	(tf-idf weight:0.037149)
+
+plow            (idf:2.447158)
+	 20069 :1 :7	(tf:0.100000)	(tf-idf weight:0.040864)
+
+pluck           (idf:2.447158)
+	 20067 :1 :9	(tf:0.090909)	(tf-idf weight:0.037149)
+
+plum            (idf:2.447158)
+	 19805 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+plums           (idf:2.447158)
+	 20033 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+pocket          (idf:2.447158)
+	 20066 :1 :4	(tf:0.090909)	(tf-idf weight:0.037149)
+
+points          (idf:2.447158)
+	 19791 :1 :3	(tf:0.111111)	(tf-idf weight:0.045404)
+
+pompeii         (idf:2.447158)
+	 20121 :1 :5	(tf:0.200000)	(tf-idf weight:0.081727)
+
+pond            (idf:2.146128)
+	 19965 :1 :3	(tf:0.142857)	(tf-idf weight:0.066565)
+	 19873 :1 :2	(tf:0.125000)	(tf-idf weight:0.058244)
+
+pond's          (idf:2.447158)
+	 198710:1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+poppies         (idf:2.447158)
+	 19918 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+postman         (idf:2.447158)
+	 20061 :1 :5	(tf:0.111111)	(tf-idf weight:0.045404)
+
+potter's        (idf:2.447158)
+	 19894 :1 :2	(tf:0.100000)	(tf-idf weight:0.040864)
+
+pouring         (idf:2.447158)
+	 19898 :2 :3, 5	(tf:0.250000)	(tf-idf weight:0.102159)
+
+practice        (idf:2.447158)
+	 20095 :1 :8	(tf:0.111111)	(tf-idf weight:0.045404)
+
+prayers         (idf:2.447158)
+	 19855 :1 :2	(tf:0.100000)	(tf-idf weight:0.040864)
+
+pressing        (idf:2.447158)
+	 19917 :1 :4	(tf:0.100000)	(tf-idf weight:0.040864)
+
+procession      (idf:2.447158)
+	 19981 :1 :2	(tf:0.142857)	(tf-idf weight:0.058377)
+
+prophetic       (idf:2.447158)
+	 20126 :1 :6	(tf:0.100000)	(tf-idf weight:0.040864)
+
+puddle          (idf:2.447158)
+	 19797 :1 :12	(tf:0.083333)	(tf-idf weight:0.034053)
+
+pulled          (idf:2.447158)
+	 19966 :1 :5	(tf:0.100000)	(tf-idf weight:0.040864)
+
+quick           (idf:2.447158)
+	 19796 :1 :10	(tf:0.055556)	(tf-idf weight:0.022702)
+
+quiet           (idf:2.447158)
+	 19799 :1 :1	(tf:0.100000)	(tf-idf weight:0.040864)
+
+railroad        (idf:2.447158)
+	 19972 :1 :3	(tf:0.100000)	(tf-idf weight:0.040864)
+
+rain            (idf:1.361728)
+	 20123 :1 :3	(tf:0.200000)	(tf-idf weight:0.146872)
+	 20051 :1 :6	(tf:0.166667)	(tf-idf weight:0.122394)
+	 20031 :1 :8	(tf:0.125000)	(tf-idf weight:0.091795)
+	 20034 :1 :2	(tf:0.100000)	(tf-idf weight:0.073436)
+	 20035 :1 :2	(tf:0.166667)	(tf-idf weight:0.122394)
+	 19904 :1 :2	(tf:0.142857)	(tf-idf weight:0.104909)
+	 19892 :1 :3	(tf:0.083333)	(tf-idf weight:0.061197)
+	 19898 :1 :2	(tf:0.125000)	(tf-idf weight:0.091795)
+	 19831 :1 :9	(tf:0.111111)	(tf-idf weight:0.081596)
+	 19834 :1 :7	(tf:0.142857)	(tf-idf weight:0.104909)
+	 19826 :1 :3	(tf:0.090909)	(tf-idf weight:0.066760)
+	 19811 :1 :3	(tf:0.111111)	(tf-idf weight:0.081596)
+
+razor           (idf:2.447158)
+	 20042 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+reaching        (idf:2.447158)
+	 19772 :1 :1	(tf:0.090909)	(tf-idf weight:0.037149)
+
+read            (idf:2.447158)
+	 19836 :1 :12	(tf:0.071429)	(tf-idf weight:0.029188)
+
+reading         (idf:2.447158)
+	 19899 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+real            (idf:2.447158)
+	 19876 :1 :5	(tf:0.100000)	(tf-idf weight:0.040864)
+
+recurring       (idf:2.447158)
+	 20117 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+red             (idf:2.447158)
+	 19914 :1 :3	(tf:0.090909)	(tf-idf weight:0.037149)
+
+reflecting      (idf:2.447158)
+	 19866 :1 :7	(tf:0.125000)	(tf-idf weight:0.051080)
+
+repeating       (idf:2.447158)
+	 19877 :1 :1	(tf:0.100000)	(tf-idf weight:0.040864)
+
+resonates       (idf:2.447158)
+	 19905 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+respirator      (idf:2.447158)
+	 201110:1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+returning       (idf:2.447158)
+	 20104 :1 :5	(tf:0.083333)	(tf-idf weight:0.034053)
+
+reunion         (idf:2.447158)
+	 20071 :1 :2	(tf:0.111111)	(tf-idf weight:0.045404)
+
+revelations     (idf:2.146128)
+	 20138 :1 :9	(tf:0.111111)	(tf-idf weight:0.051773)
+	 19984 :1 :8	(tf:0.083333)	(tf-idf weight:0.038830)
+
+ribbon          (idf:2.447158)
+	 20141 :1 :6	(tf:0.100000)	(tf-idf weight:0.040864)
+
+ride            (idf:2.447158)
+	 20126 :1 :4	(tf:0.100000)	(tf-idf weight:0.040864)
+
+righted         (idf:2.447158)
+	 19973 :1 :4	(tf:0.111111)	(tf-idf weight:0.045404)
+
+rind            (idf:2.447158)
+	 19895 :1 :2	(tf:0.100000)	(tf-idf weight:0.040864)
+
+ripple          (idf:2.146128)
+	 19798 :1 :3	(tf:0.090909)	(tf-idf weight:0.042360)
+	 19798 :1 :3	(tf:0.090909)	(tf-idf weight:0.042360)
+
+rise            (idf:2.447158)
+	 19873 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+rising          (idf:2.447158)
+	 19867 :1 :6	(tf:0.166667)	(tf-idf weight:0.068106)
+
+river           (idf:1.602060)
+	 20122 :1 :1	(tf:0.166667)	(tf-idf weight:0.104033)
+	 20002 :1 :11	(tf:0.090909)	(tf-idf weight:0.056745)
+	 19961 :1 :2	(tf:0.100000)	(tf-idf weight:0.062420)
+	 19956 :1 :2	(tf:0.125000)	(tf-idf weight:0.078025)
+	 19932 :1 :3	(tf:0.111111)	(tf-idf weight:0.069355)
+	 19906 :1 :11	(tf:0.090909)	(tf-idf weight:0.056745)
+	 19869 :1 :8	(tf:0.125000)	(tf-idf weight:0.078025)
+
+riveredge       (idf:2.447158)
+	 19987 :1 :1	(tf:0.125000)	(tf-idf weight:0.051080)
+
+riversound      (idf:2.447158)
+	 19853 :1 :6	(tf:0.166667)	(tf-idf weight:0.068106)
+
+road            (idf:2.146128)
+	 20069 :1 :10	(tf:0.100000)	(tf-idf weight:0.046596)
+	 19977 :1 :12	(tf:0.083333)	(tf-idf weight:0.038830)
+
+roadrunner's    (idf:2.447158)
+	 19837 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+roadside        (idf:2.447158)
+	 19797 :1 :11	(tf:0.083333)	(tf-idf weight:0.034053)
+
+roast           (idf:2.447158)
+	 19875 :1 :6	(tf:0.090909)	(tf-idf weight:0.037149)
+
+rocks           (idf:2.447158)
+	 20064 :1 :4	(tf:0.142857)	(tf-idf weight:0.058377)
+
+roof            (idf:2.447158)
+	 20023 :1 :4	(tf:0.090909)	(tf-idf weight:0.037149)
+
+room            (idf:2.447158)
+	 199110:1 :5	(tf:0.142857)	(tf-idf weight:0.058377)
+
+room's          (idf:2.447158)
+	 197911:1 :2	(tf:0.100000)	(tf-idf weight:0.040864)
+
+rose            (idf:2.146128)
+	 20067 :1 :5	(tf:0.090909)	(tf-idf weight:0.042360)
+	 20025 :1 :2	(tf:0.090909)	(tf-idf weight:0.042360)
+
+rosebud         (idf:2.447158)
+	 20138 :1 :1	(tf:0.111111)	(tf-idf weight:0.045404)
+
+roses           (idf:2.447158)
+	 199110:1 :1	(tf:0.142857)	(tf-idf weight:0.058377)
+
+rounding        (idf:2.447158)
+	 198310:1 :3	(tf:0.111111)	(tf-idf weight:0.045404)
+
+rub             (idf:2.447158)
+	 20023 :1 :6	(tf:0.090909)	(tf-idf weight:0.037149)
+
+runners         (idf:2.447158)
+	 20095 :1 :3	(tf:0.111111)	(tf-idf weight:0.045404)
+
+runs            (idf:2.447158)
+	 19812 :1 :11	(tf:0.083333)	(tf-idf weight:0.034053)
+
+rust            (idf:2.447158)
+	 20144 :1 :4	(tf:0.100000)	(tf-idf weight:0.040864)
+
+rusting         (idf:2.146128)
+	 20105 :1 :6	(tf:0.125000)	(tf-idf weight:0.058244)
+	 19878 :1 :2	(tf:0.100000)	(tf-idf weight:0.046596)
+
+rusty           (idf:2.447158)
+	 20119 :1 :7	(tf:0.125000)	(tf-idf weight:0.051080)
+
+s               (idf:1.491362)
+	 20131 :1 :8	(tf:0.090909)	(tf-idf weight:0.060957)
+	 20125 :1 :5	(tf:0.111111)	(tf-idf weight:0.074503)
+	 20115 :1 :2	(tf:0.111111)	(tf-idf weight:0.074503)
+	 20117 :1 :7	(tf:0.125000)	(tf-idf weight:0.083816)
+	 20119 :1 :6	(tf:0.125000)	(tf-idf weight:0.083816)
+	 20082 :1 :4	(tf:0.111111)	(tf-idf weight:0.074503)
+	 20085 :1 :2	(tf:0.125000)	(tf-idf weight:0.083816)
+	 20043 :1 :7	(tf:0.083333)	(tf-idf weight:0.055877)
+	 20044 :1 :9	(tf:0.083333)	(tf-idf weight:0.055877)
+
+sagging         (idf:2.447158)
+	 19941 :1 :4	(tf:0.090909)	(tf-idf weight:0.037149)
+
+saints          (idf:2.447158)
+	 20032 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+sale            (idf:2.146128)
+	 20105 :1 :3	(tf:0.125000)	(tf-idf weight:0.058244)
+	 19871 :1 :2	(tf:0.166667)	(tf-idf weight:0.077659)
+
+salmon          (idf:2.447158)
+	 20041 :1 :5	(tf:0.142857)	(tf-idf weight:0.058377)
+
+salt            (idf:2.447158)
+	 19945 :1 :11	(tf:0.090909)	(tf-idf weight:0.037149)
+
+sand            (idf:2.447158)
+	 20013 :1 :3	(tf:0.111111)	(tf-idf weight:0.045404)
+
+sandals         (idf:2.447158)
+	 20001 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+savoonga        (idf:2.447158)
+	 20031 :1 :6	(tf:0.125000)	(tf-idf weight:0.051080)
+
+saw             (idf:2.447158)
+	 20132 :1 :3	(tf:0.166667)	(tf-idf weight:0.068106)
+
+say             (idf:2.447158)
+	 19841 :1 :9	(tf:0.111111)	(tf-idf weight:0.045404)
+
+says            (idf:2.447158)
+	 19791 :1 :8	(tf:0.111111)	(tf-idf weight:0.045404)
+
+scapula         (idf:2.447158)
+	 20146 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+scarecrow       (idf:2.447158)
+	 19966 :1 :7	(tf:0.100000)	(tf-idf weight:0.040864)
+
+scarecrow's     (idf:2.447158)
+	 20073 :1 :3	(tf:0.111111)	(tf-idf weight:0.045404)
+
+scattered       (idf:2.447158)
+	 19945 :1 :4	(tf:0.090909)	(tf-idf weight:0.037149)
+
+scattering      (idf:2.447158)
+	 19931 :1 :1	(tf:0.111111)	(tf-idf weight:0.045404)
+
+scent           (idf:2.447158)
+	 19991 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+scratchy        (idf:2.447158)
+	 20116 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+sea             (idf:1.845098)
+	 19897 :1 :5	(tf:0.125000)	(tf-idf weight:0.067747)
+	 19867 :1 :3	(tf:0.166667)	(tf-idf weight:0.090329)
+	 19802 :1 :3	(tf:0.090909)	(tf-idf weight:0.049271)
+	 197912:1 :9	(tf:0.071429)	(tf-idf weight:0.038713)
+
+seagull         (idf:2.447158)
+	 19792 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+seals           (idf:2.447158)
+	 19826 :1 :9	(tf:0.090909)	(tf-idf weight:0.037149)
+
+season          (idf:2.447158)
+	 20061 :1 :1	(tf:0.111111)	(tf-idf weight:0.045404)
+
+seat            (idf:2.447158)
+	 20102 :1 :5	(tf:0.111111)	(tf-idf weight:0.045404)
+
+seaweed         (idf:2.447158)
+	 20024 :1 :6	(tf:0.111111)	(tf-idf weight:0.045404)
+
+seclusion       (idf:2.447158)
+	 19953 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+second          (idf:2.146128)
+	       :1 :4	(tf:0.100000)	(tf-idf weight:0.046596)
+	 19862 :1 :1	(tf:0.125000)	(tf-idf weight:0.058244)
+
+see             (idf:2.146128)
+	 20062 :1 :7	(tf:0.090909)	(tf-idf weight:0.042360)
+	 19803 :1 :11	(tf:0.066667)	(tf-idf weight:0.031064)
+
+seed            (idf:2.146128)
+	 20138 :1 :4	(tf:0.111111)	(tf-idf weight:0.051773)
+	 19993 :1 :8	(tf:0.125000)	(tf-idf weight:0.058244)
+
+seeds           (idf:1.968483)
+	 20115 :1 :9	(tf:0.111111)	(tf-idf weight:0.056445)
+	 19995 :1 :5	(tf:0.100000)	(tf-idf weight:0.050801)
+	 19978 :1 :7	(tf:0.142857)	(tf-idf weight:0.072572)
+
+seek            (idf:2.146128)
+	 20045 :1 :12	(tf:0.083333)	(tf-idf weight:0.038830)
+	 19855 :1 :7	(tf:0.100000)	(tf-idf weight:0.046596)
+
+separates       (idf:2.447158)
+	 19998 :1 :9	(tf:0.083333)	(tf-idf weight:0.034053)
+
+setting         (idf:2.146128)
+	 20134 :1 :1	(tf:0.125000)	(tf-idf weight:0.058244)
+	 20044 :1 :10	(tf:0.083333)	(tf-idf weight:0.038830)
+
+settles         (idf:2.447158)
+	 20085 :1 :6	(tf:0.125000)	(tf-idf weight:0.051080)
+
+seventy         (idf:2.447158)
+	 20116 :1 :7	(tf:0.125000)	(tf-idf weight:0.051080)
+
+several         (idf:2.447158)
+	 19945 :1 :8	(tf:0.090909)	(tf-idf weight:0.037149)
+
+shadow          (idf:1.662758)
+	 19997 :1 :7	(tf:0.100000)	(tf-idf weight:0.060141)
+	 19918 :1 :2	(tf:0.125000)	(tf-idf weight:0.075176)
+	 19843 :1 :6	(tf:0.111111)	(tf-idf weight:0.066823)
+	 19835 :1 :7	(tf:0.100000)	(tf-idf weight:0.060141)
+	 19839 :1 :6	(tf:0.111111)	(tf-idf weight:0.066823)
+	 19795 :1 :5	(tf:0.076923)	(tf-idf weight:0.046262)
+
+shadow's        (idf:2.447158)
+	 19825 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+shadows         (idf:2.447158)
+	 19896 :1 :8	(tf:0.083333)	(tf-idf weight:0.034053)
+
+shaft           (idf:2.447158)
+	 19792 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+shanty          (idf:2.447158)
+	 19893 :1 :7	(tf:0.111111)	(tf-idf weight:0.045404)
+
+shape           (idf:1.845098)
+	 20122 :1 :4	(tf:0.166667)	(tf-idf weight:0.090329)
+	 20006 :1 :5	(tf:0.090909)	(tf-idf weight:0.049271)
+	 19894 :1 :5	(tf:0.100000)	(tf-idf weight:0.054198)
+	 19856 :1 :6	(tf:0.125000)	(tf-idf weight:0.067747)
+
+shearwater      (idf:2.447158)
+	 19983 :1 :7	(tf:0.100000)	(tf-idf weight:0.040864)
+
+shell           (idf:2.146128)
+	 19944 :1 :6	(tf:0.100000)	(tf-idf weight:0.046596)
+	 19897 :1 :8	(tf:0.125000)	(tf-idf weight:0.058244)
+
+shifts          (idf:2.447158)
+	 20012 :1 :5	(tf:0.090909)	(tf-idf weight:0.037149)
+
+shines          (idf:2.447158)
+	 19914 :1 :2	(tf:0.090909)	(tf-idf weight:0.037149)
+
+shivering       (idf:2.447158)
+	 20023 :1 :1	(tf:0.090909)	(tf-idf weight:0.037149)
+
+shorter         (idf:2.447158)
+	 19812 :1 :3	(tf:0.083333)	(tf-idf weight:0.034053)
+
+shower          (idf:1.845098)
+	 20131 :1 :11	(tf:0.090909)	(tf-idf weight:0.049271)
+	 20023 :1 :11	(tf:0.090909)	(tf-idf weight:0.049271)
+	 20001 :1 :2	(tf:0.125000)	(tf-idf weight:0.067747)
+	 19951 :1 :6	(tf:0.076923)	(tf-idf weight:0.041691)
+
+shown           (idf:2.447158)
+	 20003 :1 :10	(tf:0.100000)	(tf-idf weight:0.040864)
+
+shut            (idf:2.146128)
+	 20005 :1 :5	(tf:0.111111)	(tf-idf weight:0.051773)
+	 19885 :1 :8	(tf:0.090909)	(tf-idf weight:0.042360)
+
+side            (idf:2.447158)
+	 19936 :1 :6	(tf:0.100000)	(tf-idf weight:0.040864)
+
+sighted         (idf:2.447158)
+	 19804 :1 :8	(tf:0.071429)	(tf-idf weight:0.029188)
+
+sign            (idf:2.447158)
+	 19899 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+silence         (idf:2.146128)
+	 19962 :1 :2	(tf:0.125000)	(tf-idf weight:0.058244)
+	 19823 :1 :8	(tf:0.125000)	(tf-idf weight:0.058244)
+
+silences        (idf:2.447158)
+	 20015 :1 :11	(tf:0.090909)	(tf-idf weight:0.037149)
+
+silent          (idf:2.146128)
+	 20056 :1 :10	(tf:0.100000)	(tf-idf weight:0.046596)
+	 19901 :1 :1	(tf:0.125000)	(tf-idf weight:0.058244)
+
+silk            (idf:2.447158)
+	 19881 :1 :6	(tf:0.125000)	(tf-idf weight:0.051080)
+
+single          (idf:2.146128)
+	 19941 :1 :10	(tf:0.090909)	(tf-idf weight:0.042360)
+	 19881 :1 :2	(tf:0.125000)	(tf-idf weight:0.058244)
+
+sings           (idf:2.447158)
+	 20092 :1 :6	(tf:0.111111)	(tf-idf weight:0.045404)
+
+sinking         (idf:2.447158)
+	 19834 :1 :3	(tf:0.142857)	(tf-idf weight:0.058377)
+
+sitting         (idf:2.447158)
+	 19895 :1 :3	(tf:0.100000)	(tf-idf weight:0.040864)
+
+sketch          (idf:2.447158)
+	 20025 :1 :6	(tf:0.090909)	(tf-idf weight:0.037149)
+
+skiers          (idf:2.447158)
+	 19763 :1 :1	(tf:0.200000)	(tf-idf weight:0.081727)
+
+skin            (idf:2.447158)
+	 19937 :1 :10	(tf:0.076923)	(tf-idf weight:0.031434)
+
+skunk's         (idf:2.447158)
+	 20065 :1 :8	(tf:0.111111)	(tf-idf weight:0.045404)
+
+sky             (idf:1.662758)
+	 20118 :1 :10	(tf:0.100000)	(tf-idf weight:0.060141)
+	 19983 :1 :10	(tf:0.100000)	(tf-idf weight:0.060141)
+	 19908 :1 :7	(tf:0.142857)	(tf-idf weight:0.085916)
+	 19858 :1 :4	(tf:0.111111)	(tf-idf weight:0.066823)
+	 19804 :1 :4	(tf:0.071429)	(tf-idf weight:0.042958)
+	 19772 :1 :3	(tf:0.090909)	(tf-idf weight:0.054674)
+
+slap            (idf:2.447158)
+	 19799 :1 :7	(tf:0.100000)	(tf-idf weight:0.040864)
+
+sleeping        (idf:2.447158)
+	 19885 :1 :4	(tf:0.090909)	(tf-idf weight:0.037149)
+
+sleeve          (idf:2.146128)
+	 20073 :1 :5	(tf:0.111111)	(tf-idf weight:0.051773)
+	 19955 :1 :8	(tf:0.125000)	(tf-idf weight:0.058244)
+
+slice           (idf:2.447158)
+	 20057 :1 :4	(tf:0.083333)	(tf-idf weight:0.034053)
+
+slightly        (idf:2.447158)
+	 19829 :1 :7	(tf:0.142857)	(tf-idf weight:0.058377)
+
+slipper         (idf:2.447158)
+	 19854 :1 :4	(tf:0.090909)	(tf-idf weight:0.037149)
+
+slips           (idf:2.146128)
+	 20068 :1 :6	(tf:0.142857)	(tf-idf weight:0.066565)
+	 20014 :1 :5	(tf:0.111111)	(tf-idf weight:0.051773)
+
+slow            (idf:2.447158)
+	 19972 :1 :6	(tf:0.100000)	(tf-idf weight:0.040864)
+
+slug            (idf:2.447158)
+	 19825 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+small           (idf:1.748188)
+	 20033 :1 :6	(tf:0.125000)	(tf-idf weight:0.071503)
+	 19975 :1 :6	(tf:0.100000)	(tf-idf weight:0.057202)
+	 19953 :1 :7	(tf:0.125000)	(tf-idf weight:0.071503)
+	 198610:1 :1	(tf:0.111111)	(tf-idf weight:0.063558)
+	 197910:1 :9	(tf:0.100000)	(tf-idf weight:0.057202)
+
+smaller         (idf:2.447158)
+	 199110:1 :4	(tf:0.142857)	(tf-idf weight:0.058377)
+
+smallness       (idf:2.447158)
+	 197911:1 :3	(tf:0.100000)	(tf-idf weight:0.040864)
+
+smell           (idf:1.968483)
+	 20026 :1 :7	(tf:0.100000)	(tf-idf weight:0.050801)
+	 19976 :1 :2	(tf:0.142857)	(tf-idf weight:0.072572)
+	 19872 :1 :4	(tf:0.100000)	(tf-idf weight:0.050801)
+
+smiles          (idf:2.447158)
+	 19942 :1 :12	(tf:0.083333)	(tf-idf weight:0.034053)
+
+smoke           (idf:2.447158)
+	 19872 :1 :6	(tf:0.100000)	(tf-idf weight:0.040864)
+
+snail           (idf:1.968483)
+	 20004 :1 :1	(tf:0.142857)	(tf-idf weight:0.072572)
+	 19944 :1 :5	(tf:0.100000)	(tf-idf weight:0.050801)
+	 19863 :1 :4	(tf:0.142857)	(tf-idf weight:0.072572)
+
+snake           (idf:2.146128)
+	 19972 :1 :10	(tf:0.100000)	(tf-idf weight:0.046596)
+	 19937 :1 :13	(tf:0.076923)	(tf-idf weight:0.035843)
+
+sneakers        (idf:2.447158)
+	 20006 :1 :11	(tf:0.090909)	(tf-idf weight:0.037149)
+
+sneeze          (idf:2.447158)
+	 19905 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+snow            (idf:1.662758)
+	 20133 :1 :1	(tf:0.125000)	(tf-idf weight:0.075176)
+	 20091 :1 :11	(tf:0.090909)	(tf-idf weight:0.054674)
+	 19828 :1 :9	(tf:0.111111)	(tf-idf weight:0.066823)
+	 19801 :1 :3	(tf:0.111111)	(tf-idf weight:0.066823)
+	 19808 :1 :10	(tf:0.100000)	(tf-idf weight:0.060141)
+	 197911:1 :10	(tf:0.100000)	(tf-idf weight:0.060141)
+
+snowbank        (idf:2.447158)
+	 19912 :1 :11	(tf:0.090909)	(tf-idf weight:0.037149)
+
+snowbound       (idf:2.447158)
+	 19964 :1 :1	(tf:0.200000)	(tf-idf weight:0.081727)
+
+snowfall        (idf:2.447158)
+	 19866 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+snowflakes      (idf:2.146128)
+	 19981 :1 :3	(tf:0.142857)	(tf-idf weight:0.066565)
+	 19946 :1 :1	(tf:0.111111)	(tf-idf weight:0.051773)
+
+snowman's       (idf:2.447158)
+	 19834 :1 :1	(tf:0.142857)	(tf-idf weight:0.058377)
+
+snowmelt        (idf:2.447158)
+	 19911 :1 :1	(tf:0.125000)	(tf-idf weight:0.051080)
+
+soap            (idf:2.447158)
+	 19886 :1 :2	(tf:0.100000)	(tf-idf weight:0.040864)
+
+soba            (idf:2.447158)
+	 20068 :1 :1	(tf:0.142857)	(tf-idf weight:0.058377)
+
+soft            (idf:2.447158)
+	 19904 :1 :1	(tf:0.142857)	(tf-idf weight:0.058377)
+
+solstice        (idf:1.968483)
+	 20149 :1 :2	(tf:0.125000)	(tf-idf weight:0.063501)
+	 19963 :1 :2	(tf:0.100000)	(tf-idf weight:0.050801)
+	 198210:1 :6	(tf:0.166667)	(tf-idf weight:0.084668)
+
+someone         (idf:2.447158)
+	 20007 :1 :3	(tf:0.142857)	(tf-idf weight:0.058377)
+
+somewhere       (idf:2.146128)
+	 20123 :2 :1, 5	(tf:0.400000)	(tf-idf weight:0.186382)
+	 19808 :1 :3	(tf:0.100000)	(tf-idf weight:0.046596)
+
+son's           (idf:2.447158)
+	 19975 :1 :7	(tf:0.100000)	(tf-idf weight:0.040864)
+
+song            (idf:1.845098)
+	 20091 :1 :6	(tf:0.090909)	(tf-idf weight:0.049271)
+	 19865 :1 :2	(tf:0.166667)	(tf-idf weight:0.090329)
+	 19865 :1 :2	(tf:0.166667)	(tf-idf weight:0.090329)
+	 19804 :1 :11	(tf:0.071429)	(tf-idf weight:0.038713)
+
+souls           (idf:2.447158)
+	 20101 :1 :2	(tf:0.100000)	(tf-idf weight:0.040864)
+
+sound           (idf:1.845098)
+	 20113 :1 :4	(tf:0.125000)	(tf-idf weight:0.067747)
+	 19992 :1 :8	(tf:0.125000)	(tf-idf weight:0.067747)
+	 19922 :1 :9	(tf:0.083333)	(tf-idf weight:0.045165)
+	 19842 :1 :1	(tf:0.111111)	(tf-idf weight:0.060220)
+
+sowing          (idf:2.447158)
+	 19978 :1 :6	(tf:0.142857)	(tf-idf weight:0.058377)
+
+span            (idf:2.447158)
+	 20083 :1 :5	(tf:0.200000)	(tf-idf weight:0.081727)
+
+sparrow         (idf:2.447158)
+	 19835 :1 :10	(tf:0.100000)	(tf-idf weight:0.040864)
+
+sparrows        (idf:2.447158)
+	 20016 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+spellbound      (idf:2.447158)
+	 199111:1 :3	(tf:0.250000)	(tf-idf weight:0.102159)
+
+spent           (idf:2.447158)
+	 20041 :1 :4	(tf:0.142857)	(tf-idf weight:0.058377)
+
+spider          (idf:2.447158)
+	 19881 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+spider's        (idf:2.447158)
+	 19823 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+spine           (idf:2.447158)
+	 19998 :1 :12	(tf:0.083333)	(tf-idf weight:0.034053)
+
+spinster        (idf:2.447158)
+	 19852 :1 :5	(tf:0.083333)	(tf-idf weight:0.034053)
+
+spring          (idf:1.447158)
+	 20131 :1 :10	(tf:0.090909)	(tf-idf weight:0.062819)
+	 20044 :1 :4	(tf:0.083333)	(tf-idf weight:0.057584)
+	 20034 :1 :1	(tf:0.100000)	(tf-idf weight:0.069101)
+	 20035 :1 :1	(tf:0.166667)	(tf-idf weight:0.115168)
+	 20016 :1 :1	(tf:0.125000)	(tf-idf weight:0.086376)
+	 20003 :1 :1	(tf:0.100000)	(tf-idf weight:0.069101)
+	 19967 :1 :8	(tf:0.111111)	(tf-idf weight:0.076779)
+	 19852 :1 :2	(tf:0.083333)	(tf-idf weight:0.057584)
+	 19834 :1 :6	(tf:0.142857)	(tf-idf weight:0.098716)
+	 198310:1 :1	(tf:0.111111)	(tf-idf weight:0.076779)
+
+sprouting       (idf:2.447158)
+	 19761 :1 :6	(tf:0.166667)	(tf-idf weight:0.068106)
+
+squeeze         (idf:2.447158)
+	 20055 :1 :5	(tf:0.090909)	(tf-idf weight:0.037149)
+
+squeezes        (idf:2.447158)
+	 20134 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+stained         (idf:2.447158)
+	 19901 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+stall           (idf:2.447158)
+	 20141 :1 :10	(tf:0.100000)	(tf-idf weight:0.040864)
+
+stand           (idf:1.968483)
+	 20118 :1 :8	(tf:0.100000)	(tf-idf weight:0.050801)
+	 20072 :1 :8	(tf:0.100000)	(tf-idf weight:0.050801)
+	 19835 :1 :4	(tf:0.100000)	(tf-idf weight:0.050801)
+
+standing        (idf:2.447158)
+	 19763 :1 :2	(tf:0.200000)	(tf-idf weight:0.081727)
+
+stark           (idf:2.447158)
+	 19896 :1 :10	(tf:0.083333)	(tf-idf weight:0.034053)
+
+stars           (idf:1.968483)
+	 20114 :1 :8	(tf:0.125000)	(tf-idf weight:0.063501)
+	 20054 :1 :2	(tf:0.100000)	(tf-idf weight:0.050801)
+	 19987 :1 :8	(tf:0.125000)	(tf-idf weight:0.063501)
+
+static          (idf:2.447158)
+	 19955 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+steadies        (idf:2.447158)
+	 20024 :1 :7	(tf:0.111111)	(tf-idf weight:0.045404)
+
+steering        (idf:2.447158)
+	 19914 :1 :10	(tf:0.090909)	(tf-idf weight:0.037149)
+
+stem            (idf:2.447158)
+	 19974 :1 :6	(tf:0.111111)	(tf-idf weight:0.045404)
+
+steps           (idf:2.447158)
+	 19824 :1 :4	(tf:0.071429)	(tf-idf weight:0.029188)
+
+stick           (idf:2.447158)
+	 20053 :1 :2	(tf:0.090909)	(tf-idf weight:0.037149)
+
+stilettos       (idf:2.447158)
+	 20135 :1 :6	(tf:0.125000)	(tf-idf weight:0.051080)
+
+still           (idf:1.662758)
+	 20042 :1 :5	(tf:0.125000)	(tf-idf weight:0.075176)
+	 19995 :1 :6	(tf:0.100000)	(tf-idf weight:0.060141)
+	 19966 :1 :1	(tf:0.100000)	(tf-idf weight:0.060141)
+	 19957 :1 :6	(tf:0.142857)	(tf-idf weight:0.085916)
+	 19824 :1 :6	(tf:0.071429)	(tf-idf weight:0.042958)
+	 19762 :1 :1	(tf:0.111111)	(tf-idf weight:0.066823)
+
+stillness       (idf:2.447158)
+	 19851 :1 :3	(tf:0.142857)	(tf-idf weight:0.058377)
+
+stills          (idf:2.447158)
+	 19922 :1 :7	(tf:0.083333)	(tf-idf weight:0.034053)
+
+stone           (idf:2.447158)
+	 20066 :1 :1	(tf:0.090909)	(tf-idf weight:0.037149)
+
+stones          (idf:2.146128)
+	 19892 :1 :12	(tf:0.083333)	(tf-idf weight:0.038830)
+	 19855 :1 :10	(tf:0.100000)	(tf-idf weight:0.046596)
+
+stops           (idf:2.146128)
+	 20126 :1 :10	(tf:0.100000)	(tf-idf weight:0.046596)
+	 19881 :1 :7	(tf:0.125000)	(tf-idf weight:0.058244)
+
+store           (idf:2.447158)
+	 19899 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+storm           (idf:2.447158)
+	 19983 :1 :1	(tf:0.100000)	(tf-idf weight:0.040864)
+
+stove           (idf:2.447158)
+	 20026 :1 :5	(tf:0.100000)	(tf-idf weight:0.040864)
+
+straight        (idf:2.447158)
+	 19973 :1 :6	(tf:0.111111)	(tf-idf weight:0.045404)
+
+strand          (idf:2.146128)
+	 20024 :1 :4	(tf:0.111111)	(tf-idf weight:0.051773)
+	 19881 :1 :3	(tf:0.125000)	(tf-idf weight:0.058244)
+
+streets         (idf:2.447158)
+	 201410:1 :7	(tf:0.142857)	(tf-idf weight:0.058377)
+
+stretches       (idf:2.447158)
+	 19863 :1 :5	(tf:0.142857)	(tf-idf weight:0.058377)
+
+stretching      (idf:2.447158)
+	 19803 :1 :4	(tf:0.066667)	(tf-idf weight:0.027242)
+
+strike          (idf:2.447158)
+	 20145 :1 :3	(tf:0.142857)	(tf-idf weight:0.058377)
+
+strikes         (idf:2.447158)
+	 19933 :1 :10	(tf:0.083333)	(tf-idf weight:0.034053)
+
+string          (idf:2.447158)
+	 19896 :1 :12	(tf:0.083333)	(tf-idf weight:0.034053)
+
+stroke          (idf:2.447158)
+	 19942 :1 :3	(tf:0.083333)	(tf-idf weight:0.034053)
+
+strokes         (idf:2.447158)
+	 19799 :1 :2	(tf:0.100000)	(tf-idf weight:0.040864)
+
+studies         (idf:2.447158)
+	 19858 :1 :7	(tf:0.111111)	(tf-idf weight:0.045404)
+
+summer          (idf:1.397940)
+	 20114 :1 :7	(tf:0.125000)	(tf-idf weight:0.089417)
+	 20119 :1 :1	(tf:0.125000)	(tf-idf weight:0.089417)
+	 20054 :1 :1	(tf:0.100000)	(tf-idf weight:0.071534)
+	 20041 :1 :2	(tf:0.142857)	(tf-idf weight:0.102191)
+	 20022 :1 :1	(tf:0.100000)	(tf-idf weight:0.071534)
+	 20014 :1 :2	(tf:0.111111)	(tf-idf weight:0.079482)
+	 20006 :1 :3	(tf:0.090909)	(tf-idf weight:0.065031)
+	 19963 :1 :1	(tf:0.100000)	(tf-idf weight:0.071534)
+	 19907 :1 :4	(tf:0.090909)	(tf-idf weight:0.065031)
+	 19895 :1 :9	(tf:0.100000)	(tf-idf weight:0.071534)
+	 19885 :1 :10	(tf:0.090909)	(tf-idf weight:0.065031)
+
+summer's        (idf:2.447158)
+	 20074 :1 :1	(tf:0.125000)	(tf-idf weight:0.051080)
+
+sun             (idf:1.544068)
+	 20134 :1 :2	(tf:0.125000)	(tf-idf weight:0.080955)
+	 20003 :1 :2	(tf:0.100000)	(tf-idf weight:0.064764)
+	 19966 :1 :2	(tf:0.100000)	(tf-idf weight:0.064764)
+	 19945 :1 :3	(tf:0.090909)	(tf-idf weight:0.058876)
+	 19933 :1 :9	(tf:0.083333)	(tf-idf weight:0.053970)
+	 19919 :1 :8	(tf:0.111111)	(tf-idf weight:0.071960)
+	 19895 :1 :10	(tf:0.100000)	(tf-idf weight:0.064764)
+	 19852 :1 :3	(tf:0.083333)	(tf-idf weight:0.053970)
+
+sunglasses      (idf:2.447158)
+	 19923 :1 :10	(tf:0.100000)	(tf-idf weight:0.040864)
+
+sunlight        (idf:1.845098)
+	 201110:1 :3	(tf:0.125000)	(tf-idf weight:0.067747)
+	 19914 :1 :1	(tf:0.090909)	(tf-idf weight:0.049271)
+	 19871 :1 :3	(tf:0.166667)	(tf-idf weight:0.090329)
+	 19802 :1 :11	(tf:0.090909)	(tf-idf weight:0.049271)
+
+sunrise         (idf:2.447158)
+	 19861 :1 :7	(tf:0.142857)	(tf-idf weight:0.058377)
+
+sunset          (idf:2.447158)
+	 19956 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+sunshine        (idf:2.447158)
+	 20016 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+supper          (idf:2.447158)
+	 20022 :1 :10	(tf:0.100000)	(tf-idf weight:0.040864)
+
+surface         (idf:2.447158)
+	 198710:1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+swallowtail     (idf:2.447158)
+	 19967 :1 :3	(tf:0.111111)	(tf-idf weight:0.045404)
+
+swan            (idf:2.447158)
+	 19821 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+sweater         (idf:2.447158)
+	 19912 :1 :4	(tf:0.090909)	(tf-idf weight:0.037149)
+
+swimmer         (idf:2.146128)
+	 19804 :1 :9	(tf:0.071429)	(tf-idf weight:0.033283)
+	 19799 :1 :5	(tf:0.100000)	(tf-idf weight:0.046596)
+
+sycamores       (idf:2.447158)
+	 19907 :1 :11	(tf:0.090909)	(tf-idf weight:0.037149)
+
+table           (idf:2.146128)
+	 19945 :1 :7	(tf:0.090909)	(tf-idf weight:0.042360)
+	 19854 :1 :11	(tf:0.090909)	(tf-idf weight:0.042360)
+
+tables          (idf:2.447158)
+	 20105 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+tadpoles        (idf:2.447158)
+	 19965 :1 :4	(tf:0.142857)	(tf-idf weight:0.058377)
+
+tail            (idf:2.447158)
+	 198713:1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+tails           (idf:2.447158)
+	 19799 :1 :10	(tf:0.100000)	(tf-idf weight:0.040864)
+
+taken           (idf:2.447158)
+	 19912 :1 :5	(tf:0.090909)	(tf-idf weight:0.037149)
+
+taker           (idf:2.447158)
+	 19795 :1 :9	(tf:0.076923)	(tf-idf weight:0.031434)
+
+takes           (idf:2.447158)
+	 20057 :1 :8	(tf:0.083333)	(tf-idf weight:0.034053)
+
+taking          (idf:2.146128)
+	 19884 :1 :1	(tf:0.142857)	(tf-idf weight:0.066565)
+	 19864 :1 :9	(tf:0.100000)	(tf-idf weight:0.046596)
+
+talk            (idf:2.447158)
+	 19984 :1 :6	(tf:0.083333)	(tf-idf weight:0.034053)
+
+talking         (idf:2.447158)
+	 19854 :1 :8	(tf:0.090909)	(tf-idf weight:0.037149)
+
+tasting         (idf:2.447158)
+	 20114 :1 :1	(tf:0.125000)	(tf-idf weight:0.051080)
+
+tea             (idf:2.447158)
+	 19829 :1 :2	(tf:0.142857)	(tf-idf weight:0.058377)
+
+teabag          (idf:2.447158)
+	 20055 :1 :11	(tf:0.090909)	(tf-idf weight:0.037149)
+
+tell            (idf:2.447158)
+	 19975 :1 :9	(tf:0.100000)	(tf-idf weight:0.040864)
+
+tempt           (idf:2.447158)
+	 20094 :1 :3	(tf:0.111111)	(tf-idf weight:0.045404)
+
+ten             (idf:2.447158)
+	 19836 :1 :1	(tf:0.071429)	(tf-idf weight:0.029188)
+
+tending         (idf:2.447158)
+	 19953 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+text            (idf:2.447158)
+	 19976 :1 :7	(tf:0.142857)	(tf-idf weight:0.058377)
+
+thanksgiving    (idf:2.447158)
+	 20081 :1 :1	(tf:0.166667)	(tf-idf weight:0.068106)
+
+thick           (idf:2.447158)
+	 19919 :1 :2	(tf:0.111111)	(tf-idf weight:0.045404)
+
+thigh           (idf:2.447158)
+	 19869 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+thing           (idf:2.447158)
+	 19806 :1 :2	(tf:0.100000)	(tf-idf weight:0.040864)
+
+third           (idf:2.447158)
+	 19962 :1 :7	(tf:0.125000)	(tf-idf weight:0.051080)
+
+thorn           (idf:2.447158)
+	 198310:1 :5	(tf:0.111111)	(tf-idf weight:0.045404)
+
+thought         (idf:2.447158)
+	 20062 :1 :3	(tf:0.090909)	(tf-idf weight:0.037149)
+
+thousand        (idf:2.447158)
+	 20084 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+throw           (idf:2.447158)
+	 198610:1 :5	(tf:0.111111)	(tf-idf weight:0.045404)
+
+thumb           (idf:2.146128)
+	 19914 :1 :7	(tf:0.090909)	(tf-idf weight:0.042360)
+	 19875 :1 :10	(tf:0.090909)	(tf-idf weight:0.042360)
+
+thunder         (idf:2.447158)
+	 20056 :1 :2	(tf:0.100000)	(tf-idf weight:0.040864)
+
+ticket          (idf:2.146128)
+	 19893 :1 :9	(tf:0.111111)	(tf-idf weight:0.051773)
+	 19795 :1 :8	(tf:0.076923)	(tf-idf weight:0.035843)
+
+tide            (idf:2.146128)
+	 20063 :1 :2	(tf:0.111111)	(tf-idf weight:0.051773)
+	 19897 :1 :2	(tf:0.125000)	(tf-idf weight:0.058244)
+
+tilt            (idf:2.447158)
+	 20149 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+time            (idf:1.845098)
+	 20147 :1 :2	(tf:0.111111)	(tf-idf weight:0.060220)
+	 20015 :1 :7	(tf:0.090909)	(tf-idf weight:0.049271)
+	 19993 :1 :2	(tf:0.125000)	(tf-idf weight:0.067747)
+	 19884 :1 :2	(tf:0.142857)	(tf-idf weight:0.077425)
+
+tints           (idf:2.447158)
+	 19829 :1 :4	(tf:0.142857)	(tf-idf weight:0.058377)
+
+tips            (idf:2.447158)
+	 19963 :1 :5	(tf:0.100000)	(tf-idf weight:0.040864)
+
+titmouse        (idf:2.447158)
+	 20056 :1 :4	(tf:0.100000)	(tf-idf weight:0.040864)
+
+together        (idf:2.447158)
+	 20023 :1 :9	(tf:0.090909)	(tf-idf weight:0.037149)
+
+told            (idf:2.447158)
+	 20143 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+toll            (idf:2.447158)
+	 19952 :1 :1	(tf:0.083333)	(tf-idf weight:0.034053)
+
+tombstones      (idf:2.447158)
+	 19836 :1 :14	(tf:0.071429)	(tf-idf weight:0.029188)
+
+tools           (idf:2.447158)
+	 19878 :1 :1	(tf:0.100000)	(tf-idf weight:0.040864)
+
+touch           (idf:1.968483)
+	 20093 :1 :4	(tf:0.071429)	(tf-idf weight:0.036286)
+	 19902 :1 :5	(tf:0.083333)	(tf-idf weight:0.042334)
+	 19825 :1 :6	(tf:0.125000)	(tf-idf weight:0.063501)
+
+touched         (idf:2.447158)
+	 19954 :1 :8	(tf:0.083333)	(tf-idf weight:0.034053)
+
+towels          (idf:2.447158)
+	 19802 :1 :7	(tf:0.090909)	(tf-idf weight:0.037149)
+
+tower's         (idf:2.447158)
+	 19843 :1 :5	(tf:0.111111)	(tf-idf weight:0.045404)
+
+towering        (idf:2.447158)
+	 19987 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+town            (idf:2.447158)
+	 19991 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+tracks          (idf:2.146128)
+	 19972 :1 :4	(tf:0.100000)	(tf-idf weight:0.046596)
+	 19808 :1 :6	(tf:0.100000)	(tf-idf weight:0.046596)
+
+trail           (idf:2.447158)
+	 20085 :1 :1	(tf:0.125000)	(tf-idf weight:0.051080)
+
+trapped         (idf:2.447158)
+	 198213:1 :10	(tf:0.076923)	(tf-idf weight:0.031434)
+
+tree            (idf:1.968483)
+	 20143 :1 :8	(tf:0.125000)	(tf-idf weight:0.063501)
+	 20106 :1 :10	(tf:0.100000)	(tf-idf weight:0.050801)
+	 19975 :1 :3	(tf:0.100000)	(tf-idf weight:0.050801)
+
+tree's          (idf:2.447158)
+	 19793 :1 :5	(tf:0.166667)	(tf-idf weight:0.068106)
+
+trees           (idf:2.146128)
+	 19908 :1 :4	(tf:0.142857)	(tf-idf weight:0.066565)
+	 19858 :1 :2	(tf:0.111111)	(tf-idf weight:0.051773)
+
+trodden         (idf:2.447158)
+	 20032 :1 :7	(tf:0.125000)	(tf-idf weight:0.051080)
+
+tub             (idf:2.447158)
+	 20137 :1 :4	(tf:0.083333)	(tf-idf weight:0.034053)
+
+tune            (idf:2.447158)
+	 20132 :1 :6	(tf:0.166667)	(tf-idf weight:0.068106)
+
+turn            (idf:2.447158)
+	 19977 :1 :9	(tf:0.083333)	(tf-idf weight:0.034053)
+
+turned          (idf:2.447158)
+	 20074 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+turning         (idf:2.447158)
+	 20063 :1 :1	(tf:0.111111)	(tf-idf weight:0.045404)
+
+turns           (idf:2.447158)
+	 19916 :1 :8	(tf:0.090909)	(tf-idf weight:0.037149)
+
+turtle          (idf:2.447158)
+	 19806 :1 :10	(tf:0.100000)	(tf-idf weight:0.040864)
+
+twilight        (idf:2.447158)
+	 20124 :1 :2	(tf:0.090909)	(tf-idf weight:0.037149)
+
+two             (idf:2.447158)
+	 19915 :1 :1	(tf:0.100000)	(tf-idf weight:0.040864)
+
+umbrella        (idf:2.447158)
+	 19916 :1 :7	(tf:0.090909)	(tf-idf weight:0.037149)
+
+unable          (idf:2.447158)
+	 20005 :1 :3	(tf:0.111111)	(tf-idf weight:0.045404)
+
+underfoot       (idf:2.447158)
+	 19812 :1 :5	(tf:0.083333)	(tf-idf weight:0.034053)
+
+unfamiliar      (idf:2.447158)
+	 20148 :1 :3	(tf:0.200000)	(tf-idf weight:0.081727)
+
+unfolding       (idf:2.447158)
+	 20138 :1 :2	(tf:0.111111)	(tf-idf weight:0.045404)
+
+unknown         (idf:2.447158)
+	 19991 :1 :7	(tf:0.125000)	(tf-idf weight:0.051080)
+
+unopened        (idf:2.447158)
+	 198210:1 :4	(tf:0.166667)	(tf-idf weight:0.068106)
+
+untouched       (idf:2.447158)
+	 19868 :1 :3	(tf:0.200000)	(tf-idf weight:0.081727)
+
+unused          (idf:2.447158)
+	 19878 :1 :3	(tf:0.100000)	(tf-idf weight:0.040864)
+
+upside          (idf:2.447158)
+	 19797 :1 :7	(tf:0.083333)	(tf-idf weight:0.034053)
+
+urn             (idf:2.447158)
+	 19933 :1 :12	(tf:0.083333)	(tf-idf weight:0.034053)
+
+us              (idf:2.146128)
+	 19954 :1 :7	(tf:0.083333)	(tf-idf weight:0.038830)
+	 19806 :1 :7	(tf:0.100000)	(tf-idf weight:0.046596)
+
+utter           (idf:2.447158)
+	 19851 :1 :2	(tf:0.142857)	(tf-idf weight:0.058377)
+
+vacant          (idf:2.447158)
+	 19893 :1 :6	(tf:0.111111)	(tf-idf weight:0.045404)
+
+vase            (idf:2.146128)
+	 20067 :1 :11	(tf:0.090909)	(tf-idf weight:0.042360)
+	 19894 :1 :7	(tf:0.100000)	(tf-idf weight:0.046596)
+
+vegetable       (idf:2.447158)
+	 19892 :1 :6	(tf:0.083333)	(tf-idf weight:0.034053)
+
+venus           (idf:2.447158)
+	 19977 :1 :2	(tf:0.083333)	(tf-idf weight:0.034053)
+
+victim          (idf:2.447158)
+	 19917 :1 :2	(tf:0.100000)	(tf-idf weight:0.040864)
+
+violin          (idf:2.447158)
+	 20054 :1 :5	(tf:0.100000)	(tf-idf weight:0.040864)
+
+voice           (idf:2.447158)
+	 19842 :1 :4	(tf:0.111111)	(tf-idf weight:0.045404)
+
+voices          (idf:2.447158)
+	 19876 :1 :6	(tf:0.100000)	(tf-idf weight:0.040864)
+
+wait            (idf:2.447158)
+	 20131 :1 :2	(tf:0.090909)	(tf-idf weight:0.037149)
+
+wake            (idf:2.146128)
+	 20064 :1 :7	(tf:0.142857)	(tf-idf weight:0.066565)
+	 20051 :1 :2	(tf:0.166667)	(tf-idf weight:0.077659)
+
+walk            (idf:2.146128)
+	 20104 :1 :4	(tf:0.083333)	(tf-idf weight:0.038830)
+	 19836 :1 :7	(tf:0.071429)	(tf-idf weight:0.033283)
+
+walking         (idf:1.845098)
+	 19997 :1 :1	(tf:0.100000)	(tf-idf weight:0.054198)
+	 19866 :1 :1	(tf:0.125000)	(tf-idf weight:0.067747)
+	 19796 :1 :1	(tf:0.055556)	(tf-idf weight:0.030110)
+	 19797 :1 :5	(tf:0.083333)	(tf-idf weight:0.045165)
+
+wall            (idf:2.447158)
+	 19813 :1 :11	(tf:0.090909)	(tf-idf weight:0.037149)
+
+walnut          (idf:2.447158)
+	 198210:1 :2	(tf:0.166667)	(tf-idf weight:0.068106)
+
+wander          (idf:2.447158)
+	 201410:1 :5	(tf:0.142857)	(tf-idf weight:0.058377)
+
+war             (idf:2.447158)
+	 19934 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+warm            (idf:1.968483)
+	 19952 :1 :11	(tf:0.083333)	(tf-idf weight:0.042334)
+	 19956 :1 :1	(tf:0.125000)	(tf-idf weight:0.063501)
+	 19857 :1 :4	(tf:0.125000)	(tf-idf weight:0.063501)
+
+warmed          (idf:2.447158)
+	 19966 :1 :3	(tf:0.100000)	(tf-idf weight:0.040864)
+
+warms           (idf:2.447158)
+	 20027 :1 :8	(tf:0.083333)	(tf-idf weight:0.034053)
+
+warning         (idf:2.447158)
+	 20065 :1 :9	(tf:0.111111)	(tf-idf weight:0.045404)
+
+washer          (idf:2.146128)
+	 20044 :1 :8	(tf:0.083333)	(tf-idf weight:0.038830)
+	 19923 :1 :5	(tf:0.100000)	(tf-idf weight:0.046596)
+
+washes          (idf:2.447158)
+	 20041 :1 :6	(tf:0.142857)	(tf-idf weight:0.058377)
+
+watching        (idf:1.968483)
+	 19942 :1 :4	(tf:0.083333)	(tf-idf weight:0.042334)
+	 19898 :1 :1	(tf:0.125000)	(tf-idf weight:0.063501)
+	 19898 :1 :1	(tf:0.125000)	(tf-idf weight:0.063501)
+
+water           (idf:1.845098)
+	 20114 :1 :6	(tf:0.125000)	(tf-idf weight:0.067747)
+	 20063 :1 :9	(tf:0.111111)	(tf-idf weight:0.060220)
+	 19891 :1 :8	(tf:0.100000)	(tf-idf weight:0.054198)
+	 198213:1 :3	(tf:0.076923)	(tf-idf weight:0.041691)
+
+waterfall       (idf:2.146128)
+	 19957 :1 :5	(tf:0.142857)	(tf-idf weight:0.066565)
+	 19891 :1 :6	(tf:0.100000)	(tf-idf weight:0.046596)
+
+watermelon      (idf:2.447158)
+	 19895 :1 :1	(tf:0.100000)	(tf-idf weight:0.040864)
+
+wave            (idf:2.146128)
+	 20073 :1 :9	(tf:0.111111)	(tf-idf weight:0.051773)
+	 20001 :1 :5	(tf:0.125000)	(tf-idf weight:0.058244)
+
+waves           (idf:2.447158)
+	 20012 :1 :2	(tf:0.090909)	(tf-idf weight:0.037149)
+
+way             (idf:1.845098)
+	 19906 :1 :8	(tf:0.090909)	(tf-idf weight:0.049271)
+	 198712:1 :3	(tf:0.076923)	(tf-idf weight:0.041691)
+	 19832 :1 :7	(tf:0.100000)	(tf-idf weight:0.054198)
+	 197912:1 :2	(tf:0.071429)	(tf-idf weight:0.038713)
+
+ways            (idf:2.447158)
+	 19891 :1 :3	(tf:0.100000)	(tf-idf weight:0.040864)
+
+web             (idf:2.447158)
+	 19823 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+weight          (idf:2.146128)
+	 20051 :1 :4	(tf:0.166667)	(tf-idf weight:0.077659)
+	 19941 :1 :7	(tf:0.090909)	(tf-idf weight:0.042360)
+
+well            (idf:2.447158)
+	 20114 :1 :3	(tf:0.125000)	(tf-idf weight:0.051080)
+
+wets            (idf:2.447158)
+	 20001 :1 :6	(tf:0.125000)	(tf-idf weight:0.051080)
+
+whalebone       (idf:2.447158)
+	 20031 :1 :1	(tf:0.125000)	(tf-idf weight:0.051080)
+
+wharf           (idf:2.447158)
+	 19822 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+wheel           (idf:2.447158)
+	 19914 :1 :11	(tf:0.090909)	(tf-idf weight:0.037149)
+
+whiskers        (idf:2.447158)
+	 20042 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+whispered       (idf:2.447158)
+	 19832 :1 :1	(tf:0.100000)	(tf-idf weight:0.040864)
+
+whistles        (idf:2.447158)
+	 19985 :1 :3	(tf:0.090909)	(tf-idf weight:0.037149)
+
+white           (idf:1.748188)
+	 19955 :1 :7	(tf:0.125000)	(tf-idf weight:0.071503)
+	 19936 :1 :9	(tf:0.100000)	(tf-idf weight:0.057202)
+	 19913 :1 :2	(tf:0.111111)	(tf-idf weight:0.063558)
+	 19896 :1 :11	(tf:0.083333)	(tf-idf weight:0.047668)
+	 19873 :1 :3	(tf:0.125000)	(tf-idf weight:0.071503)
+
+widens          (idf:2.447158)
+	 19813 :1 :5	(tf:0.090909)	(tf-idf weight:0.037149)
+
+wife's          (idf:2.447158)
+	 19917 :1 :9	(tf:0.100000)	(tf-idf weight:0.040864)
+
+wild            (idf:2.447158)
+	 19821 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+wildflower      (idf:2.447158)
+	 20115 :1 :8	(tf:0.111111)	(tf-idf weight:0.045404)
+
+wildflowers     (idf:2.447158)
+	 20011 :1 :8	(tf:0.125000)	(tf-idf weight:0.051080)
+
+will            (idf:2.447158)
+	 19946 :1 :4	(tf:0.111111)	(tf-idf weight:0.045404)
+
+wind            (idf:1.447158)
+	 20061 :1 :9	(tf:0.111111)	(tf-idf weight:0.076779)
+	 20025 :1 :8	(tf:0.090909)	(tf-idf weight:0.062819)
+	 20027 :1 :2	(tf:0.083333)	(tf-idf weight:0.057584)
+	 19994 :1 :8	(tf:0.125000)	(tf-idf weight:0.086376)
+	 19971 :1 :9	(tf:0.111111)	(tf-idf weight:0.076779)
+	 19967 :1 :9	(tf:0.111111)	(tf-idf weight:0.076779)
+	 19837 :1 :2	(tf:0.125000)	(tf-idf weight:0.086376)
+	 19808 :1 :2	(tf:0.100000)	(tf-idf weight:0.069101)
+	 197912:1 :14	(tf:0.071429)	(tf-idf weight:0.049358)
+	 19763 :1 :5	(tf:0.200000)	(tf-idf weight:0.138202)
+
+windharp        (idf:2.447158)
+	 19823 :1 :6	(tf:0.125000)	(tf-idf weight:0.051080)
+
+window          (idf:1.544068)
+	 20102 :1 :9	(tf:0.111111)	(tf-idf weight:0.071960)
+	 19982 :1 :5	(tf:0.125000)	(tf-idf weight:0.080955)
+	 19985 :1 :11	(tf:0.090909)	(tf-idf weight:0.058876)
+	 19987 :1 :6	(tf:0.125000)	(tf-idf weight:0.080955)
+	 19943 :1 :2	(tf:0.125000)	(tf-idf weight:0.080955)
+	 19923 :1 :4	(tf:0.100000)	(tf-idf weight:0.064764)
+	 19876 :1 :10	(tf:0.100000)	(tf-idf weight:0.064764)
+	 19877 :1 :8	(tf:0.100000)	(tf-idf weight:0.064764)
+
+winds           (idf:2.447158)
+	 20058 :1 :2	(tf:0.111111)	(tf-idf weight:0.045404)
+
+wing            (idf:2.146128)
+	 19861 :1 :6	(tf:0.142857)	(tf-idf weight:0.066565)
+	 19827 :1 :9	(tf:0.100000)	(tf-idf weight:0.046596)
+
+wings           (idf:2.447158)
+	 19994 :1 :4	(tf:0.125000)	(tf-idf weight:0.051080)
+
+winter          (idf:1.447158)
+	 20149 :1 :1	(tf:0.125000)	(tf-idf weight:0.086376)
+	 20125 :1 :9	(tf:0.111111)	(tf-idf weight:0.076779)
+	 20055 :1 :1	(tf:0.090909)	(tf-idf weight:0.062819)
+	 20031 :1 :7	(tf:0.125000)	(tf-idf weight:0.086376)
+	 19986 :1 :1	(tf:0.100000)	(tf-idf weight:0.069101)
+	 19953 :1 :1	(tf:0.125000)	(tf-idf weight:0.086376)
+	 19955 :1 :1	(tf:0.125000)	(tf-idf weight:0.086376)
+	 19921 :1 :2	(tf:0.111111)	(tf-idf weight:0.076779)
+	 19908 :1 :6	(tf:0.142857)	(tf-idf weight:0.098716)
+	 198210:1 :5	(tf:0.166667)	(tf-idf weight:0.115168)
+
+winter's        (idf:2.447158)
+	 20053 :1 :10	(tf:0.090909)	(tf-idf weight:0.037149)
+
+winters         (idf:2.447158)
+	 199111:1 :2	(tf:0.250000)	(tf-idf weight:0.102159)
+
+wiping          (idf:2.447158)
+	 19923 :1 :6	(tf:0.100000)	(tf-idf weight:0.040864)
+
+wish            (idf:2.447158)
+	 19772 :1 :8	(tf:0.090909)	(tf-idf weight:0.037149)
+
+within          (idf:2.146128)
+	 19891 :1 :4	(tf:0.100000)	(tf-idf weight:0.046596)
+	 19803 :1 :12	(tf:0.066667)	(tf-idf weight:0.031064)
+
+without         (idf:2.447158)
+	 19993 :1 :6	(tf:0.125000)	(tf-idf weight:0.051080)
+
+woman           (idf:1.748188)
+	 19951 :1 :13	(tf:0.076923)	(tf-idf weight:0.044002)
+	 198711:1 :2	(tf:0.111111)	(tf-idf weight:0.063558)
+	 19826 :1 :5	(tf:0.090909)	(tf-idf weight:0.052002)
+	 198213:1 :5	(tf:0.076923)	(tf-idf weight:0.044002)
+	 19811 :1 :2	(tf:0.111111)	(tf-idf weight:0.063558)
+
+woman's         (idf:2.447158)
+	 19821 :1 :7	(tf:0.125000)	(tf-idf weight:0.051080)
+
+women           (idf:2.447158)
+	 19915 :1 :2	(tf:0.100000)	(tf-idf weight:0.040864)
+
+wood            (idf:2.146128)
+	 19933 :1 :8	(tf:0.083333)	(tf-idf weight:0.038830)
+	 19935 :1 :9	(tf:0.111111)	(tf-idf weight:0.051773)
+
+woodchopper     (idf:2.447158)
+	 198211:1 :2	(tf:0.142857)	(tf-idf weight:0.058377)
+
+woodpile        (idf:2.447158)
+	 19937 :1 :8	(tf:0.076923)	(tf-idf weight:0.031434)
+
+woods           (idf:2.447158)
+	 20103 :1 :5	(tf:0.125000)	(tf-idf weight:0.051080)
+
+woolen          (idf:2.447158)
+	 19912 :1 :3	(tf:0.090909)	(tf-idf weight:0.037149)
+
+words           (idf:2.447158)
+	 20112 :1 :2	(tf:0.142857)	(tf-idf weight:0.058377)
+
+work            (idf:1.968483)
+	 19878 :1 :6	(tf:0.100000)	(tf-idf weight:0.050801)
+	 198712:1 :5	(tf:0.076923)	(tf-idf weight:0.039077)
+	 19796 :1 :3	(tf:0.055556)	(tf-idf weight:0.028223)
+
+worn            (idf:2.447158)
+	 20045 :1 :6	(tf:0.083333)	(tf-idf weight:0.034053)
+
+wrapping        (idf:2.447158)
+	 198711:1 :3	(tf:0.111111)	(tf-idf weight:0.045404)
+
+yard            (idf:1.968483)
+	 20119 :1 :4	(tf:0.125000)	(tf-idf weight:0.063501)
+	 20011 :1 :5	(tf:0.125000)	(tf-idf weight:0.063501)
+	 19871 :1 :1	(tf:0.166667)	(tf-idf weight:0.084668)
+
+yarn            (idf:2.447158)
+	 19912 :2 :6, 8	(tf:0.181818)	(tf-idf weight:0.074298)
+
+year            (idf:2.146128)
+	 20147 :1 :4	(tf:0.111111)	(tf-idf weight:0.051773)
+	 20068 :1 :5	(tf:0.142857)	(tf-idf weight:0.066565)
+
+yet             (idf:2.447158)
+	 19805 :1 :2	(tf:0.125000)	(tf-idf weight:0.051080)
+
+yukon           (idf:2.447158)
+	 19885 :1 :3	(tf:0.090909)	(tf-idf weight:0.037149)
+
+zero            (idf:2.146128)
+	 19937 :1 :2	(tf:0.076923)	(tf-idf weight:0.035843)
+	 19836 :1 :3	(tf:0.071429)	(tf-idf weight:0.033283)
+
+Corpus size: 280

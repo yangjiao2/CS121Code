@@ -1,0 +1,1018 @@
+'n           : 
+18th         : 
+20141        : 
+abandoned    : adobe, graveyard, deserted, crumbling, rust, desert
+accordion    : guitar, fold, violin, tune, playing, plastic, song, play, string, door, shut, chair
+acequia      : 
+across       : river, table, booth, meadow, aisle, estuary, seat, ripple, lean, snake, fold
+added        : rind, juice, salt
+adobe        : brick, roof, wall, house, indian, town, stone, cabin, dust, lean, church, color, home, desert, oak, crumbling, thick, abandoned, red, mud, sun
+afraid       : losing
+afternoon    : sunshine, clock, sunlight, overcast, tea, cool, dusk, autumn, drizzle, sunset, breeze, evening, summer, twilight, morning, late, hazy, spent, sun
+ahead        : canyon, go, yard, horizon, road, bend, plow
+air          : smell, scent, morning, mountain, cool, cold, humid, musty
+aisle        : cathedral, seat, stall, procession, church, side, cross, left, mid, bench, walk
+alley        : peacock, blind, brick, cat, stall, side, back, crooked, deserted, dark, window
+alone        : leave, without, leaving, wander, leave, long
+along        : road, snail, path, roadside
+already      : dead
+alzheimer's  : 
+among        : indian, class, wander, single
+ancestor     : grandson, funeral, ancient, descend
+ancient      : 
+angels       : christmas, wing
+another      : 
+ant          : beetle, bee, nest, spider, bite, locust, flies, butterfly, moth, hill, snail, beaver, white, blue, biting
+antlers      : pair, forest, skin, bone, snow, tree, stick, large, small, branch, lower
+apostles     : church
+apple        : plum, pie, blossom, rind, mince, juice, slice, watermelon, roast, walnut, oak, tree
+apples       : plum, pie, blossom, rind, mince, juice, slice, watermelon, roast, walnut, oak, tree
+approaching  : circling, near, close, slow
+april        : sowing, march, june, november, july, august, spring, date
+archer       : shaft, horse
+armload      : firewood, carrying, wood, book, gather, drop
+arms         : sleeve, neck, fold, wave
+aroma        : incense, scent, cooking, smell, blossom, kitchen, pie, breeze, flower, delicate, musty, fragrant, hot, roast
+artificial   : flower, injection, sowing, vase, light, pond, field
+ashes        : urn, pompeii, dust, oak, fire, scattering, smoke, soap, firewood, wood, bone, grey, cake, scattered, charcoal, roast, flick
+ashore       : wharf, beach, fisherman, tide, beached, wharf
+attention    : close, full, drawn, single
+august       : july, sowing, june, november, april, date
+autumn       : summer, sunshine, spring, winter, season, sunlight, solstice, flower, wood, garden, wind, tree, sowing, frost, bloom, blossom, twilight, seed, sun, harvest, leaf
+away         : home, melt, throw, yard, ebb, turn, slug, walk
+axbite       : 
+baby         : mother, lap, newborn, crying, born, birth
+baby's       : 
+back         : small, chair, alley, door, neck, kitchen, garden, fender, front, side, lean, tilt, flop, rub, thumb, slap
+backhoe      : 
+bag          : grocery, plastic, umbrella, carrying, pocket, string, fish, hand
+balloon      : spider, air, kite, wind, floating, string, meteor, drifting
+barber's     : 
+bare         : foot, thigh, slap, slipper, patch, legged, branch
+barefoot     : boy, slipper, walking, walk, blue, pair, kitchen, beach, white, winter, snow, legged, bare, mud
+beach        : sand, pebble, tide, fisherman, ocean, palm, sea, wave, shell, driftwood, seaweed, kelp, lap
+beached      : sand, fish, beach, ashore
+beak         : feather, hawk, heron, bird, wing, sparrow, dove, tail, swan, turtle, nest, click
+beats        : rind, wing, fist, salt, stick, hammer, juice
+beaver       : dam, pond, fox, skin, tail, indian, meadow, salmon, brook, dam
+becomes      : overcast
+becoming     : losing, incense
+bed          : sleeping, feather, hammock, dry, flop, air
+bedtime      : supper, evening, clock, dinner, tea, night, child, bed, early
+bee          : hum, butterfly, combs, ant, blossom, beetle, locust, flies, flower, bloom, nest, moth, spider, fragrant, hum, wing
+beef         : roast, mince, slice, salt, vegetable, plum, roast, season
+bees         : hum, butterfly, combs, ant, blossom, beetle, locust, flies, flower, bloom, nest, moth, spider, fragrant, hum, wing
+beetle       : butterfly, moth, ant, spider, snail, eyebrow, green, locust, flies, bee, frog, wing, shell, mountain, leaf
+beginning    : end, close, november, melt, april, solstice, end, date
+begins       : drizzle, hum, melt, chirp, ebb, gather
+behind       : wheel, door, steering, front, leaving, closed, close, shut, voice
+bench        : sitting, seat, table, aisle, oak, stone, stove, garden, wall, bus, front
+bend         : rounding, hip, neck, shaft, left, river, road, canyon, branch, gentle
+bending      : bend, lifting, static, weight, breeze, placing, neck, span, hip, lip, branch
+beneath      : surface, roof, tree, foot, depth, eyebrow, dripping, lower
+bent         : ocean, ice, neck, crooked, cupped
+bidder       : sale, letting, high
+big          : dipper, little, shanty
+bird         : nest, sparrow, feather, song, wing, bee, fish, nesting, flower, cry, tree, chirp, beak, heron, sea
+birdhouse    : 
+birding      : nest, sparrow, feather, song, wing, bee, fish, nesting, flower, cry, tree, chirp, beak, heron, bird, sea
+birds        : nest, sparrow, feather, song, wing, bee, fish, nesting, flower, cry, tree, chirp, beak, heron, bird, sea
+birdtracks   : 
+birth        : baby, death, date, born, blind, baby, beach
+birthday     : cake, christmas, thanksgiving, november, june, seventy, april, august, dinner
+bit          : lip, inside, flesh, dust, junk, plastic, apple, bone, ant, lower, dog, feather, snake, driftwood, needle, piece, shower, bite
+bite         : frost, snake, nail, ant, dog, apple, spider, flesh, mouth, biting
+biting       : nail, lip, flies, frost, ant, wind, snake, tail, bite, thumb, neck, snow, blade, mouth, flesh, fist
+bits         : lip, inside, flesh, dust, junk, plastic, apple, bone, ant, lower, dog, feather, snake, driftwood, needle, piece, shower, bite
+blackbirds   : sparrow, finch, heron, pie, dove, hawk, nest, song, bird, feather, meadow, wing, fox, oak, tail, branch, cat, wood, summer, field, blue, rusty, white, red, yard
+blackened    : smoke, brick, fire, roof, crumbling, stained, charcoal, smoke, shell, bit, wall, stone, melt
+blade        : razor, heron, slice, glint
+blind        : alley, birth, canyon, sighted
+bloom        : blossom, flower, apple, garden, rose, season, tree, green, leaf, lily, sowing, locust, pink, vase, rosebud, fragrant, spring, blossom
+blossom      : bloom, flower, apple, pink, stem, lily, seed, scent, tree, bee, sunshine, garden, meadow, spring, rose, thorn, ivy, green, summer, white, season, leaf, fragrant, fair, branch, bloom
+blossoming   : bloom, flower, apple, pink, stem, lily, seed, scent, tree, bee, sunshine, garden, meadow, spring, rose, thorn, ivy, green, summer, white, season, leaf, fragrant, fair, branch, bloom
+blossoms     : bloom, flower, apple, pink, stem, lily, seed, scent, tree, bee, sunshine, garden, meadow, spring, rose, thorn, ivy, green, summer, white, season, leaf, fragrant, fair, branch, bloom
+blow         : wind, conch, breeze, hammer, smoke, rain, strike
+blowing      : breeze, wind, conch, smoke, snow, dust, sand, drizzle, cloud, rain, balloon, storm, kite
+blue         : sky, red, horizon, green, pink, cloud, heron, white, sweater, color, ribbon, lake, silk, grey, sun, sunlight, coat, kelp, bright, sky
+blueing      : 
+blur         : mist, horizon, light, shadow, motion, static, image, moving, edge, blade, shape, memory, hazy, fog, slice
+body         : burial
+bone         : flesh, thigh, skin, beef, slice, broken, flesh
+book         : read, reading, page, pocket, read
+booster      : shell, surface, tail, big
+booth        : toll, ticket, stall, fair, cafe, lottery, glass, favorite, sound, line, exit
+born         : baby, birth, county
+bothered     : 
+bows         : violin, string, archer, shaft, ribbon, legged, bend
+boy          : kite, girl, watermelon
+boys         : kite, girl, watermelon
+branch       : tree, stem, oak, leaf, blossom, tree
+break        : stillness, silence, neck, bone, ice, cistern
+breaks       : stillness, silence, neck, bone, ice, cistern
+breasts      : thigh, coat, red, hip, cancer, pocket, wave, bare, cupped, blue, legged, white, fold
+breath       : quick, hot, fragrant, mist, blow
+breeze       : sea, ocean, sunset, wind, summer, blowing, gentle, scent, ripple, cool, fragrant, blow
+brick        : adobe, stone, wall, roof, ivy, crumbling, mud, front, house
+bright       : sun, sky, moon, sunshine, sunlight, blue, green, flower, warm, light, color, red, blossom, sun, dawn
+broken       : bone, stillness, glass, silence, crumbling, scattered, rust, piece, branch
+brook        : meadow, mountain, pebble, pond, waterfall, ripple, flowing, runs, spring, dam, shanty, span
+brown        : skin, slice, sweater, hair, green, lean, red, grey, blue, seaweed, white, roast, stained, patch
+bubbles      : surface, kettle, soap, water, mud, spring, brook, plastic, floating
+bubinga      : 
+buds         : blossom, leaf, bloom, flower, stem, vase, lily, rose, pink, growth, branch, frost, spring, fragrant, blossom, seed
+built        : nest, brick, dam, cairn, railroad, driftwood, house, adobe, church, shanty
+bulletin     : news, new, map, july, june
+burial       : urn, funeral, coffin, dead, cairn, graveyard, grave, mourning, body, memorial, ancient, crumbling, book, church
+bus          : car, road, ticket, ride, railroad, grey
+butcher's    : 
+butterflies  : moth, beetle, bee, wing, peacock, flower, blossom, net, snail, sunshine, bird, flies, locust, ant, meadow, spider
+butterfly    : moth, beetle, bee, wing, peacock, flower, blossom, net, snail, sunshine, bird, flies, locust, ant, meadow, spider
+cabin        : lady, hammock, clearing, ladder, shanty
+cafe         : rosebud, roadside, booth, table, umbrella, dinner, tea, sitting, outdoor
+cairn        : burial, stone, grave, snow, sunset, hill, cross, march, marked
+cake         : birthday, pie, piece, lemonade, slice, mince, soap, plum, tea
+call         : name
+calla        : lily, flower
+called       : name
+calls        : name
+can          : canning, jar, empty, plastic, pail, salmon, vegetable, junk, unopened, rust
+cancer       : solstice, growth, skin, hospital, bone
+candles      : table, incense, moth, light, soap, lit, blow
+cane         : chair, juice, umbrella, cotton
+canning      : vegetable, jar, can, salmon, cooking, fox, corn, season, apple, fish, july
+canyon       : navajo, waterfall, cistern, coyote, deep, oak, desert, side, towering, wall, forest, mouth
+car          : railroad, road, fender, bus, stall
+caress       : thigh, neck, thumb, lip, hip, skin, hair, strand, stroke, hand, palm, gentle, touch, breeze, parting, touched
+carries      : baby, white
+carrying     : pail, umbrella, procession, firewood, bag
+carver       : carving, slice, wood, sleeping, stone
+carving      : carver, painting, roast, cathedral, wood, slice, delicate, vase, oak, stall, etched, stone
+casts        : shadow, net, pluck
+cat          : alley, tail, dog, lap, stroke
+cat's        : 
+catalog      : book, date, seed
+catfish      : turtle, frog, fish, river, mouth, water
+cathedral    : aisle, church, toll
+caught       : breath, fish, net, scent, salmon, fisherman, glint, sleeve
+centering    : attention
+chair        : table, sitting, seat, vacant, lean, table, bench, flop, tilt, motion
+change       : shower
+changed      : shower
+changes      : shower
+changing     : shower
+charcoal     : stove, wood, stick, piece, smoke, fire, grey, color, forest, firewood, easel, sketch, incense, cooking
+charred      : heat, flesh, bone, wood, smoke, smell, body, stick, patch, fire, piece, charcoal, bit, roast
+checking     : mirror, ticket
+chernobyl    : 
+chevy's      : 
+child        : birth, newborn, sleeping, mother
+child's      : 
+children     : birth, newborn, sleeping, mother
+chills       : air, wind, cold, dawn, spine, winter, snow, autumn, drizzle, breeze, morning, blowing, frost, fog, darkness, woolen, mist, overcast, bone, biting, warm, blow, ripple
+chimneys     : smoke, brick, roof, stove, corner, stone, oak, crumbling, glass, piece, smoke
+chin         : lip, hair, mouth, tilt, cupped, stroke, rub
+chirp        : sparrow, bird, frog, song, tree, hum, stillness, nest, breeze, dove, sound, wheel, bee, sun, sunshine, forest, wing, scent, garden, branch
+chose        : 
+christmas    : thanksgiving, mince, plum, birthday, solstice, pie, season, winter, dinner, tree, time
+church       : cathedral
+circles      : desert
+circling     : hawk, bird, dove, wing, motion, sky, beak, cloud, bee, horizon, slow, sun
+cistern      : tub, water, rain, roof, spring, canyon, stone, wheel, drink, cover, season, lead, river, yard, garden, broken, break, empty, dry
+city         : pompeii, salt, floating, gate, wall, town
+clams        : shell, snail, seaweed, salmon, turtle, roast, fish, river, moth, juice, beach, tide, pie, kettle, salt, fisherman, sand, sea
+clang        : hammer, shut, blade, sound, gate, door, echoing, toll
+class        : lower
+cleaner's    : 
+clearing     : forest, edge, tree, path, cabin, wood, fog, hazy, fence, branch
+clerk        : grocery, county, store
+click        : hammer, beak, shut, needle, door, hum
+climbing     : ladder, ivy, mountain, fence, hill, tree, pedal, roof
+clock        : ten, morning, afternoon, evening, following, bedtime, half, toll
+close        : door, third, crop, fist
+closed       : door, eye, fist, click, mouth, gate, clang, front, open, lean, shut
+closes       : door, third, crop, fist
+cloud        : dust, smoke, sky, horizon, sunset, mist, rain, sun, floating, blowing, snow, wind, overcast, moon, drifting, lightning, thunder, drizzle, storm, towering, hazy
+clouds       : dust, smoke, sky, horizon, sunset, mist, rain, sun, floating, blowing, snow, wind, overcast, moon, drifting, lightning, thunder, drizzle, storm, towering, hazy
+coat         : pocket, silk, sleeve, woolen, sweater
+cobblestones : alley, puddle, brick, crack, wheel, road, path, rain, sound, front, wall, horse, worn, descend, walk
+cobweb       : spider, dust, strand, nest, corner, butterfly, grey, stem, vegetable, drifting, wall, silk, sunshine, mist, web, musty, branch
+coffin       : grave, burial, funeral, nail, graveyard, procession, dead, mourning, grave, lower
+cold         : winter, frost, ice, snow, heat, wind, rain, warm, frozen, hot, huddle
+color        : rust, lavender, red, ribbon, pink, woolen, hair, blue
+coloring     : rust, lavender, red, ribbon, pink, woolen, hair, blue
+colors       : rust, lavender, red, ribbon, pink, woolen, hair, blue
+combs        : bee, soap, hair, shell, ribbon, needle, mirror, nail, pocket, silk, table, glass, side
+come         : home
+comes        : 
+coming       : christmas, year, dawn, darkness, day, sunset, shadow, new
+conch        : shell, blowing, pink, sound, string, ocean, blow, car, gate, shell, utter
+cooking      : stove, smell, kettle, vegetable, kitchen, apple, fire, aroma, roast
+cool         : breeze, heat, air, summer, water, smell, jar, morning, scent, sunlight, juice, sun, hot, fragrant, warm
+coolness     : heat, breeze, canyon, summer, scent, sun, air, stillness, evening, smell, desert, hot
+corn         : field, harvest, grains, crop, cotton, watermelon, sowing
+corner       : grocery, booth, rounding, cobweb, store, mouth, cross, huddle
+cotton       : silk, crop, corn, cane, picking, woolen, seed
+county       : northern, town, road, clerk
+cover        : jar, kettle, slice, salt, cloud, bed, darkness
+cow's        : 
+cowbell      : 
+coyote       : fox, canyon, salmon, hawk, moon, snake, cry, stillness, frog, cat, lone, dead, dog
+crack        : ice, walnut, gunshot, thunder, door, shell, bone, dust, wall, stone, broken
+cranes       : neck, heron, peacock, swan, wharf, kettle, turtle, beaver, lifting, hawk, bird, legged, lower
+creases      : fold, razor, skin, chin, line, eyebrow, face, thigh, sleeve, dust, lean, neck, coat, brown, pink, lip, map, lap, worn, deep, fold, stroke
+cremated     : body, funeral, wish, scattered, body
+crescent     : city, moon, peacock, venus, beach, cross, horizon, razor, twilight, shape, sky
+cries        : loon, echoing, utter
+crooked      : alley, straight, eyebrow, path, stick, beak, nail, bent, ways, lean, spine, mouth, bend, rusty, legged, branch
+crop         : corn, sowing, close, harvest, hair, cotton
+cross        : river, path, railroad, meadow, road, crossing, aisle, legged, patch, nail
+crossing     : river, railroad
+crow's       : 
+crumbling    : adobe, brick, ivy, wall, rust, dust, stone, ancient, roof, edge, crack, burial, red, sand, deserted, broken, rusty, abandoned, mud
+cry          : loon, echoing, utter
+crying       : seagull, loon, baby, child, cry, newborn
+cupped       : chin, palm, hand, thumb, mouth, hip, thigh, lifting, neck, face, bent, back, lip, lit, stroke, drink, lean, squeeze
+curled       : hair, lip, smoke, tail, brown, neck, pink, chin, blue, thigh, feather, hair, crop
+curves       : crescent, horizon, hip, spine, lip, stem, bend, line, beach, delicate, left, bending, road, neck, rounding, glint, shape, wall, roof
+cuts         : slice, piece, razor, rind, slice, skin
+daily        : bulletin, injection, news, recurring
+dam          : beaver, lake, brook, river, water, pond, salmon, waterfall, canyon
+dandelion    : blossom, meadow, flower, stem, green, apple, tea, field, rose, clock, white, seed, spring
+dangle       : upside, string, strand, letting, neck, beak, plastic, ribbon, sleeve, ladder, foot, cane, tail, edge, dripping, hip
+dark         : shadow, overcast, alley, sky, hair, cloud, brown, firefly, horizon, moon, skin, blue, twilight, musty
+darkness     : light, twilight, firefly, lights, utter, thick, cool, falling, half, light
+date         : november, april, july, august, june, march, expiration, early
+daughter     : grandson, fair, mother
+dawn         : horizon, twilight, morning, cool, bright, light, mist, sun, cloud, dusk, sunrise, sunset, filtering, crack, solstice, overcast, grey, sky, day, rising, wake
+day          : thanksgiving, overcast, christmas, solstice, sunrise, mid, third, following, second, night, coming, first, every, hot, dawn
+days         : expiration, ten, solstice, several, pompeii, ninety, two, spent, early, last
+dead         : burial, mourning, coffin, body, grave, quick, funeral, ancestor, graveyard, stillness
+death        : burial, birth, mourning, toll
+decade       : span, passing, early, third, late, second, first, span, rust
+deep         : canyon, breath, ocean, stillness, mourning, depth, snow, mud
+deepens      : twilight, dusk, shadow, color, darkness, pink, stillness, sunset, horizon, fog, sky, dark
+deeper       : canyon, breath, ocean, stillness, mourning, depth, snow, mud
+deepest      : canyon, breath, ocean, stillness, mourning, depth, snow, mud
+deleting     : 
+delicate     : aroma, carving, flower, pink, blossom, bloom
+depth        : ocean, surface, unknown, blue, cool
+descend      : ladder, ancestor, depth, lower
+desert       : sand, canyon, mountain, sunrise
+deserted     : wharf, alley, graveyard, echoing, silent, abandoned, crumbling, empty, vacant, shanty, desert, road
+didn't       : 
+dimming      : lights, twilight, light, sunlight, eye, cloud, shadow, dusk, sky
+dinner       : thanksgiving, christmas, birthday, supper, tea, roast, pail, beef, cooking, evening, family, mid
+dipper       : water, drink, big, great, full
+direction    : scattering, wheel
+distant      : thunder, horizon, hum, waterfall, sound, echoing, stillness, gunshot, hill, mountain, hazy, far
+dog          : cat, tail, bite, fox, scent
+dog's        : 
+dogwoods     : blossom, pink, oak, tree, wood, flower, white, green, snow, river, red, spring
+door         : open, shut, front, glass, back, open, side, closed, oak, church, close, clang
+dove         : turtle, hawk, sparrow, heron, peacock, mourning, kite, beak, wing, nest, swan, venus, bird, wood
+drags        : dust, mud, ride, fist
+drawing      : attention, easel, room, lottery, sketch, painting, breath, charcoal
+drawn        : lottery, sketch, blind, map, line
+dream        : sleeping, prophetic, wild, wake
+drifting     : cloud, smoke, mist, snow, tide, floating, breeze, fog, balloon, scent, sky, aroma, wind, ice, sand, cobweb, dust, hazy, homeless, glint, ride
+driftwood    : seaweed, beach, sand, piece, floating, fire, tide, stick, river, storm, wave, gather, shell, sea, bone, water, bit, tree, ocean, branch, dry, moon
+drink        : lemonade, tea, juice, glass, tasting
+drinks       : lemonade, tea, juice, glass, tasting
+dripping     : rain, water, salt, faucet, seaweed, umbrella, roast, juice, pail, chin, mud, fog, brown
+drizzle      : rain, mist, cloud, falling, shower, snow, overcast, afternoon, morning, fog, grey, sky, blowing, wind, fall, breeze, sunset, dawn, evening, gentle, night, dark, darkness, hazy, rain, slow, light, descend
+drop         : lap, pebble, rain, faucet
+drops        : lap, pebble, rain, faucet
+dry          : season, sand, seaweed, salt, heat, mouth, dust, desert, rain, warm, water, hot, mud
+dumproad     : 
+dusk         : twilight, dawn, evening, sunset, falling, shadow, afternoon, light, sky, dark, dimming, window, overcast, moth, lights, autumn, sun, grey, canyon, mist, figure, summer, night, hill, supper, sunlight, lit, fall, moon
+dust         : cobweb, smoke, sunlight, cloud, sneeze, snow, crumbling, dry, tail
+early        : sowing, morning, date
+ears         : corn, sound, tail, eye, cupped, break, flick, crop
+earth        : sun, venus, moon, meteor, sky, sun
+easel        : painting, sketch, drawing, map, color, standing, corner, window, chair, front, wall, table, blind, room, setting, sitting, charcoal, stand, place
+ebb          : tide, flowing, wave, breeze, sand, sea, water, beach, wind, runs, ocean, full, setting, moon, river, strand, rise, twilight, clock, lower, depth, mud, dry
+echoes       : gunshot, thunder, clang, cry, sound, canyon, stillness, voice, song, hum
+echoing      : sound, clang, mountain, thunder, cry, voice, hum, canyon, stillness, ripple, empty, distant, bare, sound
+edge         : razor, clearing, pond, forest, crumbling, lap
+eggs         : nest, rind, salt
+eights       : figure, two
+either       : side, direction
+elderly      : spinster, lady, umbrella, woman, grey, coat
+else         : nothing, matter
+empty        : can, echoing, pail, shell, silent, river, stall, flowing, lake, vacant, deserted, bench
+end          : beginning, sowing, alley, aisle, august, third, near, wharf
+endlessly    : drifting, horizon, pouring, falling, floating, ocean, wave, wheel, desert, sky, dream, march, talk
+enough       : firewood, gentle
+enter        : gate, estuary, room, exit, motion
+enters       : gate, estuary, room, exit, motion
+escape       : 
+escaping     : 
+estuary      : tide, river, salmon, sea, ocean, sand, lake, northern, mouth, water, beach, hill, fish, mist, enter, grey, wave, town, open, large, mud
+etched       : carving, line, glass, blade, face, canyon, surface, memory, shadow, painting, mouth, map, skin, image, sky, moon
+eulogy       : funeral, work, high, utter
+even         : small, large
+evening      : dusk, cool, twilight, supper, sunset, clock, dinner, breeze, afternoon, morning, cafe, autumn, coolness, bedtime, spent, dusk, drizzle
+every        : now, leaf, passing, one, day, half
+exit         : aisle, door, alley, booth, second, front, enter, house
+expecting    : 
+expiration   : date, year, birth, fifteen, second
+explored     : unknown, ocean, river, depth, mountain, part, lake, map
+extends      : 
+eye          : glint, closed, glint, flick
+eyebrow      : lifting, tilt, chin, crooked, left, hike, pluck
+eyes         : glint, closed, glint, flick
+face         : etched, wheel
+fair         : lady, county, gentle, booth, bloom, lily, venus, hair, wind, wake, fragrant, blossom
+fall         : rise, rain, drizzle, snow, meteor, victim, rising, letting, dusk, sparrow, vacant, winter, let
+fallen       : victim, body, tree, snow, broken, branch, leaf
+falling      : rising, rain, snow, darkness, wind, drizzle, victim, meteor, dusk, twilight, shower, waterfall, rising, crumbling, leaf
+falls        : rise, rain, drizzle, snow, meteor, victim, rising, letting, dusk, sparrow, vacant, winter, let
+family       : reunion, ancestor, dinner, name
+far          : horizon, roadside, distant, sighted, near
+father's     : 
+faucet       : tub, shower, water, kitchen, drop, turn, garden, turning, dripping, turned, open
+favorite     : booth, song, tune, one
+feather      : nest, bird, peacock, beak, heron, tail, wing, swan, pluck
+feeder       : nest, bird, vegetable, river, snake, shadow, lake, dark, gather
+feet         : high, pedal, slipper, horse, fender, long, deep, bare, thick
+fence        : yard, garden, meadow, gate, field, crop, patch, corn, road, tree, razor, roadside
+fenceposts   : 
+fender       : guitar, hood, car, kettle, wheel, front, foot, chair, sitting, fire, left, back, lean
+field        : corn, meadow, crop, green, hospital, sparrow, plow, fence, harvest
+fields       : corn, meadow, crop, field, green, hospital, sparrow, plow, fence, harvest
+fifteen      : ten, second, thousand, year, old, grains, expiration, seventy, high
+figure       : 
+filled       : pail, jar, kettle, tub, glass, water, aroma, vase, cistern, vacant, empty
+filling      : pie, pail, cake, glass, balloon, scent, crack, jar, air, vacant
+fills        : pail, jar, kettle, tub, glass, water, aroma, vase, cistern, vacant, empty
+filtering    : sunlight, moonlight, sunshine, dawn, shaft, window, mist, tree, light, cloud, sun, smoke, sound, forest, shadow, surface, roof, water, lit, branch, moon
+finch        : sparrow, bird, nest, song, tail
+finders      : direction, dream, depth, fish
+finds        : see, comes, runs
+fingers      : thumb, palm, chin, nail, crooked, flick, stroke
+fire         : driftwood, smoke
+firecracker  : string, july, sound, blow
+fireflies    : lights, lake, light, meadow, darkness, tree, moving, night, dark, forest, garden, lit, scattered, distant
+firefly      : lights, lake, light, meadow, darkness, tree, moving, night, dark, forest, garden, lit, scattered, distant
+fires        : driftwood, smoke
+firewood     : gather, stove, stick, cooking, soap, winter, forest, vegetable, tree, wood, carrying, fence, piece, store, fire, enough, scattered, charcoal, gather, branch, water, dry
+fireworks    : july, procession, shower, lights, cooking, evening, artificial, lit, sky
+first        : third, snowfall, second, violin, decade, third, date
+fish         : salmon, gill, fisherman, net, pond, pocket, seaweed, turtle, beached, salt
+fisherman    : net, salmon, fish, wharf, beach, sea
+fist         : hip, palm, blow, close, lap, chin, hand, hammer
+flamingo's   : 
+flaps        : wing, breeze, coat, bird, wind, tail, butterfly, feather, heron, seagull, beak
+flesh        : bone, thigh, skin, bone, roast, bit
+flick        : tail, thumb, blade, lights, pebble
+flickers     : lightning, shadow, eye, blur, blue, fire, face, lights, firefly, light, image, lit, red, bare
+flies        : beetle, spider, moth, bee, ant, frog, butterfly, wing, web, bird, salmon, hawk, tail, bite, dove, biting
+floaters     : dream, hospital, seat, watching
+floating     : ice, ocean, water, river, seaweed, balloon, driftwood, drifting, cloud, city, surface, junk, mist, pond, tide
+flop         : fish, tail, chair, wing, bed, string, back, lap, hair, sand, neck
+flower       : vase, blossom, bloom, garden, butterfly, lily, sunshine, pink, leaf, stem, fragrant, seed
+flowers      : vase, blossom, bloom, garden, butterfly, lily, sunshine, pink, leaf, stem, fragrant, seed
+flowing      : river, hair, tide, brook, ripple, kimono, empty, silk, sleeve, water, ebb
+fog          : mist, drizzle, drifting, rain, cloud, smoke, frost, breeze, lifting, horizon, sunshine, ocean, clearing, sea, sun, wind, ice, darkness, snow, sky, morning, shape, overcast, thick, hazy, blow, mist
+foghorns     : warning, sound, voice, car, sea, fog
+fold         : accordion, lap, kimono, wing, wrapping, silk, chin, coat, piece
+folded       : accordion, lap, kimono, wing, wrapping, silk, chin, coat, piece
+folds        : accordion, lap, kimono, wing, wrapping, silk, chin, coat, piece
+following    : april, sketch, june, november, text, sowing, august, date
+foot         : high, pedal, slipper, horse, fender, long, deep, bare, thick
+forest       : meadow, mountain, oak, tree, lake, edge, hill, canyon, clearing, green, branch
+forever      : wander, glory, etched, lost, gone
+forgotten    : memory
+forth        : back, setting, pouring, blossom, shadow, wander, break, thunder
+found        : sitting, pompeii, seek, home
+fox          : coyote, beaver
+fragrant     : blossom, incense, warm, flower, bloom, cool, scent, aroma, smell, lily, breeze, vase, soft, blossom
+frog         : pond, locust, snail, heron, chirp, turtle, beetle, snake, lily, flies, gill, fish, puddle, green
+front        : fender, window, brick, garden, left, open, yard, house, door, car, mirror, sitting, back, side, bench
+frost        : snow, winter, ice, wind, bite, air, autumn, cold, sowing, melt, bloom, blossom, crop, rain, breath, frozen, biting, snow
+frozen       : ice, snow, frost, waterfall, pond, melt, cold, winter, lake, puddle, ice, mud
+full         : moon, length, pail, bloom, tide, sunshine, flower, blossom, tilt, moon
+funeral      : procession, burial, urn, coffin, grave, body, death, mourning, eulogy, memorial, ancestor, graveyard, dead, toll
+furled       : yard, wind, umbrella, fold, wing, fall, breeze, wave, tide, color, river, drop
+garden       : vegetable, flower, bloom, rose, vegetable, spring, winter, fragrant, back, gate, wall, fence
+gate         : garden, city, wall, road, toll, fence, clang, shut
+gather       : harvest, firewood, driftwood, crop, flower, fold, rosebud, cloud, seaweed, seed, scattered, together, harvest
+geese        : swan, heron, roast, loon, feather, nesting, peacock, fox, beaver, pond, wild, pluck
+gentle       : breeze, touch, full, delicate, quiet, caress, soft, fair
+gently       : caress, breeze, cupped, touched, stroke, lap, caress, rub, squeeze, touch, lower, ripple
+geronimo's   : 
+gifts        : christmas, birthday, parting, shower
+gill         : stem, net, fish, frog, salt, juice, salmon, tail
+girl         : little, baby, little, outdoor, blind, sleeping, stone
+gives        : squeeze, injection, birth, slap
+giving       : squeeze, birth, lecture, injection, warning
+glass        : vase, lemonade, table, juice, jar, drink, mirror
+glint        : sunlight, moonlight, sunshine, blade, eye, blue, hair, grey, red, brown, shadow, sun, light, razor, lights, reflecting
+glories      : sunset
+glory        : sunset
+go           : touch, let, letting
+goes         : touch, let, letting
+going        : watching, know, tell
+goldfish     : pond, fold, cat, fish, garden, flower, glass, green, water, bird
+gone         : dead
+grabs        : bag, steering, snake, bag, bite
+grains       : sand, corn, vegetable, salt, incense, seed
+grandson     : daughter, ancestor, great, born
+grave        : coffin, silent, burial, graveyard, dead, funeral
+gravedigger  : 
+gravestones  : burial, graveyard, memorial, grave, date, church, stone, yard, old, early
+graveyard    : coffin, burial, grave, funeral, church, moonlight, dead, bone, stone, oak, ancient, hill, deserted, abandoned
+great        : grandson
+green        : red, blossom, meadow, blue, color, pink, apple, tree, river, summer, red, forest, patch, leaf
+grey         : sky, brown, hair, mist, dawn, cloud, drizzle, sky
+grocery      : store, bag, roadside, clerk, soap, vegetable, corner, kitchen, stove, sale, car, brown, store, dry
+growth       : seed, vegetable, slow, thick
+guitar       : violin, accordion, fender, string, tune, playing, song, play, sound, lap, neck, light, hum, practice, touch
+gull's       : 
+gunshot      : crack, sound, victim, single, distant, scattered, wind, silence
+hair         : skin, brown, dark, neck, combs, hide, strand, crop, grey, stroke
+half         : darkness, slice, pair
+hammer       : nail, fist, blow, stone, clang, click, stroke, thumb
+hammock      : sleeping, cabin, net, bag, bed, cotton
+hand         : pocket, hip, palm, cupped, fist, fold
+hands        : pocket, hip, palm, cupped, fist, fold
+harvest      : sowing, crop, seed, corn, season, gather, field, summer, winter, rain, august, plow, autumn, spring
+hawk         : sparrow, bird, heron, beak, moth, kite, dove, circling, wing, nest, feather, sky
+hazy         : overcast, horizon, sunlight, mist, blur, sky, soft, cloud, sunshine, blue, twilight, sun, autumn, fog, light, smoke, memory, breeze, grey, drifting, rain, snow, shower, clearing, summer, mountain, air, afternoon, hill, wind, sea, meadow, distant, drizzle, patch
+headlights   : fender, car, mirror, road, lights, bend, passing, bright, fog, slow
+heart        : sinking, warm, oak, throw
+heartwood    : tree, wood, red
+heat         : stove, melt, sun, cool, coolness, humid, warm
+heron        : hawk, loon, swan, beak, frog, sparrow, bird, feather, nest, blade, dove, wing, blue, pond, fish, palm, cry, lake, night, legged, water, white, green
+hide         : fold, mist, sunglasses, hair, skin, seek
+high         : mountain, bidder
+highest      : mountain, bidder
+hike         : eyebrow, mountain, thumb, forest, wood, car, fifteen, road, carrying, outdoor
+hill         : ant, mountain, horizon, walnut, kettle, distant, forest
+hip          : thigh, fist, spine, hand, stroke, slap
+hitchhiker   : thumb, book
+hoeing       : sowing, corn, crop, picking, garden, field, horse, indian, plow, cotton, work
+holds        : loosening, palm, hand, breath, thumb, spellbound
+home         : supper, dinner, county, away, homeless
+homeless     : wander, home, sleeping, drifting, alley, child, bench, thousand, wander
+hood         : fender, woolen
+horizon      : sun, cloud, sky, solstice, moon, sunset, northern, hazy, distant, blue, far, line, sun
+horns        : antlers, blowing, crescent, combs, direction, rounding, blow, sound
+horse        : archer, ride
+hospital     : memorial, field, room, wing
+hot          : dry, summer, heat, cake, sun, water, cool, lemonade, pie, stove, breath, shower, melt, spring, tea, humid, cold, dry, brown
+house        : adobe, brick, roof, room, front
+huddle       : corner, roof, umbrella, stove, cold, figure, fire, together, shape, bench
+hum          : bee, tune, song, air, sound, chirp, blossom, breeze, click, locust, slap, guitar
+humid        : warm, air, heat, breeze, summer, cold, scent, rain, cloud, mist, season, winter, sun, smoke, forest, sky, darkness, wind, hot, warm, thick, worn, smell, dry
+hunter's     : 
+hunters      : fisherman, beaver, fox, pocket
+hurdles      : fallen, fence, horse, carrying, yard, big, drawn, branch, throw, dry
+husband      : daughter, unknown
+ice          : snow, cake, winter, surface, water, melt, yukon, lemonade, sea, frost, frozen, snow
+image        : mirror, memory, blur, mirror
+incense      : aroma, scent, smell, victim, smoke, grains, urn, vase, cathedral, fragrant, charcoal
+indian       : navajo, beaver
+injection    : needle, salt, giving, skin, hospital, lethal, artificial
+inside       : door, bag, thigh, close, bit, shut
+intact       : still, leaving, crumbling, broken
+its          : beak
+ivy          : brick, oak, sparrow, climbing, stem, grey, crumbling, leaf
+jar          : can, canning, mason, vase, plum, urn, spine, glass
+jars         : can, canning, mason, vase, plum, urn, spine, glass
+juice        : apple, salt, rind, squeeze, lemonade
+july         : august, june, firecracker, sowing, april, november, august, hot, date, grey
+junco        : bird, day
+june         : july, sowing, solstice, august, april, november, date
+junk         : car, floating, plastic, salt, can, store, rusty, rust, piece, bit
+just         : 
+kayak        : ice, lake, water, cloud, skin, wave, sea, little, broken, dog
+kelp         : seaweed, strand, beach, bed, sea, tide, fish, salt, ocean, lights, forest, surface, stand, wave, blue, blow, smell
+kettle       : stove, tea, cooking, pail, hill
+kimono       : silk, slipper, sleeve, pink, fold, flowing, blue, green, sleeping, bed, hair, brown, neck, color, tea, carrying, white, worn, red, cotton, bare
+kitchen      : garden, room, stove, faucet, cooking, aroma, kettle, back
+kite         : string, balloon, hawk, tail, dove, bird, breeze, sparrow, wind, wing, nest, swan, sky, stick, frog, blowing, lightning, drifting, lifting, air
+knees        : hand, bent, thigh, length, bending, bend, chin, drop
+knots        : neck, hair, ribbon, loosening, string
+know         : nothing, going, well
+ladder       : foot, climbing, roof, leading, shaft, descend
+lady         : elderly
+lake         : loon, swan, pond, salt, firefly, dam, waterfall, dry, forest
+land's       : 
+language     : native
+languages    : native
+lap          : cat, wave, water, tide, beach, ripple, sitting, sand, thigh, ocean, mist, edge, sea, lake, legged, fold, fist, stroke, drop, seat
+large        : small, antlers, small
+last         : second, night, november, long, april, year, july, june
+latches      : click, door, gate, shut, open, string, lifting, stall, thumb, hood, closed, front, back, close, click, flick
+late         : afternoon, autumn, decade, year, snowfall, evening, supper, afternoon
+lavender     : scent, pink, soap, silk, ribbon, flower, moth, color, vase, delicate, blue, rose, mourning, garden, red, fragrant, smell
+lawless      : wild, indian
+lead         : path, road, cistern, procession, alley, slug
+leading      : ladder, path, road
+leaf         : stem, blossom, flower, branch, palm, tree, green, blade, growth, breeze, bloom, autumn, oak, seed, dry
+lean         : beef, slice, chair, chin, hair, face, hip
+leans        : beef, slice, chair, chin, hair, face, hip
+learning     : language
+leave        : autumn, stem, blossom, oak, untouched, fragrant, branch, flower
+leaves       : autumn, stem, blossom, oak, untouched, fragrant, branch, flower
+leaving      : untouched, intact, exit
+lecture      : class, class
+left         : aisle, thigh, fender, eyebrow, untouched, front, rub
+legged       : cross, sitting, heron, spider, lap, bare, seat
+legs         : thigh, hip, tail, frog, spider, shorter, dangle, flop
+lemonade     : cake, juice, glass, drink, ice, tea, pink, water, hot, hand
+length       : span, full, shorter, hair
+lengthening  : shadow, span, sun, twilight, silence, stem, horizon, aisle, long, sunshine, summer, shorter, shadow, dusk
+let          : go, wander, drop, salt, fall, dangle, melt
+lethal       : injection, blade, blow
+letting      : wander, fall, bidder, drop, go, lifting, dangle
+lifeline     : palm
+lifting      : eyebrow, weight, fog, hip, bending, mist, kite, tasting, lip, strand, hand, glass, letting, wave, cupped
+light        : darkness, dimming, shaft, filtering, firefly, moon, bright, dawn, sun, color, glint, shadow
+lightning    : thunder, storm, cloud, rain, stroke, sky, thunder, strike
+lights       : dimming, firefly, red, glint, window
+like         : firefly, locust, thunder, ant, moth, sound
+lilies       : pond, bloom, blossom, vase, rosebud, flower, stem, frog, meadow, rose, scent, fragrant
+lily         : pond, bloom, blossom, vase, rosebud, flower, stem, frog, meadow, rose, scent, fragrant
+line         : horizon, railroad, booth, etched
+lines        : horizon, railroad, booth, etched
+lip          : rosebud, mouth, lower, tasting, biting, bit
+listening    : watching, sound, stillness, static, sitting, song, click, spellbound, scent, stand
+lit          : lightning, lights, firefly, smoke, filtering, fire
+little       : girl, big
+locust       : frog, beetle, blossom, bee, walnut, ant, bloom, hum, crop, oak, tree, butterfly, cloud, corn, desert, wing, summer, green, field, shower, bird, garden, brick, rain, dust, leaf, bite
+lone         : coyote, swimmer, mountain, wander, playing, circling, canyon, crossing, cabin
+long         : shorter, unused, last, stem
+looks        : straight
+loon         : heron, pond, lake, swan, cry, nest, fox, bird, wing, water, crying
+loon's       : 
+loosening    : string, neck
+losing       : becoming, afraid
+lost         : mourning, wander
+lottery      : ticket, drawing, sale, booth, wheel, thousand, drawn
+lower        : spine, ladder, thigh, descend, class
+makes        : sowing
+mallard      : swan, pond, bird, river
+man          : woman, elderly, leading, white, dead, railroad, lawless, old
+many         : ways, year, window, color
+map          : easel, sketch, county, explored, marked, plot
+marbles      : vase, urn
+march        : procession
+marked       : map, cairn
+mason        : jar, brick
+matter       : mince, grave
+meadow       : forest, field, wood, mountain, hill, lake, river, tree, green, brook, dandelion, forest
+meant        : high, time
+melt         : puddle, snow, ice, heat, frost, salt, juice, mist, sun, heart, mountain, water, fire, frozen
+memorial     : urn, funeral, burial
+memory       : hazy, etched, store, image, surface
+meteor       : shower, sky, falling, balloon, lightning, moon, turtle, november, cloud, horizon, earth, dust, thunder, strike, patch
+mid          : ocean, thigh, afternoon, november, sun, july, solstice, day, morning, stillness, aisle, sowing, heat, winter, air, sunlight, june, summer, dinner, august, horizon, floating, sky, sea, frozen
+migrating    : ancestor, bird, season, northern, winter, home, third, ancient
+mime         : mouth, ancient, play, lip
+mince        : beef, slice, salt, juice, season, pie, piece, roast, apple, cake, christmas
+minutes      : second, direction, fifteen, ten, wait, part, motion, attention, delicate, last
+mirror       : sunglasses, image, surface, glass, wall, sunlight, combs, lake, reflecting, full
+miss         : fire
+missal       : book, church, read
+mist         : rain, cloud, dawn, smoke, sky, grey, mountain, drizzle, fog, drifting, hazy, rain, sun, blur
+model's      : 
+moon         : crescent, sun, rising, cloud, full, sky, horizon, venus, light, overcast, meteor, bright, rise
+moonlight    : window, filtering, glint, shadow, patch, moon, reflecting
+morning      : clock, sunrise, bright, postman, cool, overcast, dawn, sunshine, sunlight, evening, mist, afternoon, following, mid, early, third, still, clock, breeze, air, wake, drizzle, sun
+moth         : butterfly, rust, beetle, hawk, peacock, wing, woolen, flies, snail, spider, bee, ant, lavender, web, night, dusk
+mother       : daughter, child, baby, birth
+mother's     : 
+motion       : blur, second, seat
+mountain     : blue, towering, forest, side, road
+mountains    : blue, towering, forest, side, road
+mourning     : funeral, dove, burial, dead, procession, coffin, ribbon, lavender, worn, deep
+mouth        : rosebud, alley, river, lip, canyon, shut, tasting, corner, estuary, cupped, dry, open
+moving       : motion, blur, mountain, firefly, shadow, direction, ocean, slow
+much         : slow
+mud          : puddle, pond, rain, brick, sand, tide, dust, stick, stained, patch
+musty        : smell, cobweb, aroma, scent, old, air, book, room, darkness, corn, dark, dust, corner, smell, dry, blow
+mynah        : bird
+nail         : coffin, hammer, cross, wood, thumb, palm, biting, rusty, rust, bite
+nailed       : coffin, hammer, cross, wood, thumb, nail, palm, biting, rusty, rust, bite
+name         : 
+names        : name
+native       : language, wild
+navajo       : canyon, indian, desert, mountain, sand
+near         : neighbor, drawing, horizon, waterfall, river, sunset, sighted, distant, slow, seat
+neck         : swan, back, ribbon, sweater, spine, stroke, dangle, rub
+necks        : swan, neck, back, ribbon, sweater, spine, stroke, dangle, rub
+needle       : yarn, cotton, injection, combs, branch
+neighbor     : fence, woman, home, near
+neighbors    : fence, woman, home, near
+nest         : ant, bird, nesting, sparrow, cobweb, heron, dove, feeder, hawk, bee
+nesting      : bird, season, nest, pair, song, place, tree, summer, sand, winter, forest, wing, spring
+nestlings    : nest, bird, hill, wing, thunder, lap, mountain, tree, green, grey, chin, blue, lake, white
+net          : fish, fisherman, gill, salmon, butterfly, fish
+never        : will, dream
+new          : 
+newborn      : baby, child, birth, pink, mother, skin, crying, baby
+news         : bulletin, new
+night        : dead, stillness, moon, moonlight, heron, moth, day, darkness, cold
+night's      : 
+ninety       : seventy, thousand, second
+nipples      : thumb, pink, thigh, cupped, left, lap, caress, stroke, pluck, flick
+noodles      : vegetable, beef, stall, plastic, cake, apple, fish, kitchen, tea
+northern     : solstice
+nothing      : know, matter, talk
+notices      : bulletin, expiration, escape
+november     : thanksgiving, april, sowing, august, june, july, meteor, date, march, mid
+now          : every, mother, scent
+oak          : walnut, growth, wood, forest, canyon, apple, tree, ivy, branch, leaf
+ocean        : seaweed, estuary, wave, ebb, depth, mid, salt, indian, northern, breeze, beach
+old          : oak, year, seventy, fifteen, musty, rusty
+one          : favorite, favorite, leading, every, another
+onions       : salt, slice, mince, beef, brown
+open         : door, window, mouth, gate, beak, shut, front, glass
+opens        : door, window, mouth, gate, beak, shut, front, glass
+orphaned     : child, mother, girl
+outdoor      : cafe, hike, sowing, crop, cooking, work, summer, booth, climbing, girl, can, garden, sunshine, setting, autumn, lake, ocean, oak, dog
+overcast     : sky, rain, cloud, morning, snow, wind, afternoon, day, drizzle, night, fog, sun, twilight, thunder, dawn, storm, mist, shower, moon, darkness, breeze, stem, lightning, grey, light, blue, sunset, dark, break, hazy, cold, sky, dusk, blow, cotton
+packet       : postman, plastic, pocket, seed, ribbon, unopened, unused, fish, fold
+page         : text, book, fold, thumb
+pages        : text, page, book, fold, thumb
+pail         : tub, soap, kettle, water, carrying, dinner, upside, ice, can, filling, kitchen, empty, dripping, full
+painting     : easel, pompeii, carving, vase, wall, sketch
+pair         : coat, sunglasses, sneakers, slipper, antlers, woolen, sweater, wild, silk, glass
+palm         : thumb, pink, slap, nail, fist, beach, tree, cupped, leaf, rub
+palms        : thumb, pink, slap, nail, fist, beach, tree, cupped, leaf, rub
+papers       : piece, pocket, soap, wrapping, fold
+part         : northern, play
+parting      : breath, reunion, ways, caress, day, lip
+passed       : procession, gate
+passing      : year, crossing, procession, toll, every
+patch        : sunlight, snow, green, corn, meadow, sand, red, mud, blue, brown, bare, sky
+path         : garden, forest, road, walking, tree, mountain, leading, lead, walk
+peacock      : feather, swan, tail, butterfly, moth, alley, dove, roast, crescent, vase, pie, bird, blue, wing, silk
+pebble       : dust, ripple, beach, seaweed, sand, brook, shell, scattering, stone, pond, grains, flick, shower
+pedal        : steering, wheel, sparrow, foot, stick, road, car, seat, climbing, string, stroke, slow
+peering      : bent, window, glass
+pennies      : pocket, packet, nail, every
+perishable   : thing, dust, flower, work, earth, body, high
+petals       : blossom, flower, bloom, rosebud, leaf, stem, pink, lily, rose, vase, delicate, scent, butterfly, red, falling, fragrant, white, blossom, shower
+phoning      : 
+picking      : pebble, puddle, cotton, apple, pocket, flower, shell, scattered, wander
+picks        : cotton, plum, feeder, grocery, bone, guitar, stone, cotton
+pictures     : easel, painting, sketch
+pie          : apple, mince, christmas, piece, slice, cake, roast, beef
+piece        : string, bit, driftwood, charcoal, cake, junk, beef, fold, rust
+pieces       : string, bit, driftwood, charcoal, cake, junk, beef, fold, rust
+pines        : apple, oak, tree, mountain, wood, snow, needle, bird, forest, juice, lone, fragrant, towering, branch
+pink         : rosebud, salmon, blue, green, lemonade, color, vase, white, delicate, rose, skin, ribbon, blossom, lavender, kimono, slipper, bloom, watermelon, red, sky
+place        : nesting, burial, coffin, table, easel, jar, vase, vacant, water
+placing      : hip, rising, vase, jar, table, thumb, palm, bending, hand, lap, chair, bench, can, place
+plastic      : accordion, bag
+play         : violin, guitar, accordion, tune
+playing      : violin, guitar, accordion, tune
+plot         : garden, map, fence
+plow         : crop, corn, field, slug, fence, sowing, earth, cotton, horse, harvest, seed, mud
+pluck        : sleeve, feather, flower, string, blossom, apple, eyebrow, stem, fold, bird, gather, heart, thumb, rose, wing, tree, hand, fair, leaf
+plum         : beef, christmas, roast, apple, cake, walnut, pie, blossom, crop, tree, juice, mince, garden, pink, green, jar, color
+plums        : beef, christmas, roast, apple, cake, walnut, pie, blossom, crop, tree, plum, juice, mince, garden, pink, green, jar, color
+pocket       : coat, thigh, sunglasses, fold, fish, hip
+points       : 
+pompeii      : vase, painting, city, ancient, town, wall, date, house, small, new, found
+pond         : frog, water, loon, beaver, ripple, lily, fish, dam, brook, lake, meadow, mud, puddle, sea, swan, snail, heron, ice, frozen
+pond's       : 
+poppies      : seed, blossom, lily, corn, juice, flower, bloom, pink, meadow, field, stem, garden, red, bee, bed, scent, white, seed, color
+postman      : packet, morning, clerk, afternoon, door, bag, saw
+potter's     : 
+pouring      : fire, rain, waterfall, tea, smoke, shower, water, glass, sunshine, sunlight, cloud, tide
+practice     : violin, guitar
+prayers      : thanksgiving, incense, daily, book
+pressing     : thumb, weight, palm, lip, thigh, attention, hand
+procession   : funeral, coffin, cathedral, funeral, march, toll
+prophetic    : dream, warning, close, book, utter
+puddle       : mud, melt, rain, pond, frog, water, shower, ice, picking, plastic, reflecting, frozen, mud
+pulled       : string, sleeve, sweater, pocket, hood, together
+quick        : lightning, dead, nail, flick, breath, motion, sighted, slow
+quiet        : stillness, seclusion, cool, gentle, hum, deserted
+railroad     : car, river, road, crossing, line, shanty
+rain         : drizzle, umbrella, shower, thunder, lightning, pouring, sky, puddle, cloud, mist, wind, storm, roof, blowing, cold, snow, sun, overcast, dripping, drizzle, mud, blow, dry, cool
+razor        : blade, edge, skin, soap, fence, slice, rusty, glint
+reaching     : ladder, new, touch
+read         : book, text, page, reading, lecture, book
+reading      : book, upside, text, daily, book, glass
+real         : artificial
+recurring    : wave
+red          : blue, green, pink, color, ribbon, rust, sunset, white, blue, stained
+reflecting   : mirror, sunlight, glint, surface, moonlight, puddle, lights, pond, sunshine, image, sun, glass, lake, sky, blue, mirror, light
+repeating    : tune, song, caress
+resonates    : string, bone, sound, voice, wave, field, memory
+respirator   : mason, hood, shell, mouth, breath
+returning    : expiration, home
+reunion      : family, parting, class, christmas, dinner, church
+revelations  : prophetic
+ribbon       : blue, green, pink, silk, combs, rosebud, slipper, color
+ride         : horse, bus, horse
+righted      : left, just, direction, left
+rind         : juice, watermelon, slice, apple, rub
+ripple       : breeze, pond, wave, surface, spine, brook, sunlight, lake, water, sand, wind, tide, sunshine, ocean, pebble, flowing, static, shadow, lap
+rise         : moon, sun, tide, horizon, mist, cloud, dead, fall, chair, seat, moon
+rising       : falling, moon, sun, solstice, tide, setting, sea, sinking, horizon, wave, dawn, wind, smoke, mist, falling, distant, fall
+river        : estuary, yukon, salmon, crossing, flowing, span, side, dam
+riveredge    : 
+riversound   : 
+road         : railroad, hill, crossing, car, county, mountain, river
+roadrunner's : 
+roadside     : grocery, fence, cafe, meadow, tree, brook, road, dust, field, sitting, crop, fisherman, wheel, stone, horse, wood, fallen, summer, green, hill, rain, standing, far, spring, stand
+roast        : beef, mince, dinner, slice, vegetable, apple, pie, peacock, salmon
+rocks        : sand, tide, seaweed, waterfall
+roof         : brick, wall, rain, smoke, adobe, cistern, window
+room         : drawing, kitchen, table, door, hospital, enter, house
+room's       : 
+rose         : garden, bloom, flower, thorn, june, vase, lily, blossom, pink, lavender, eyebrow, fragrant
+rosebud      : pink, gather, cafe, ribbon, lily, bloom, blossom, flower, mouth, chin, lip, garden, white, blue, rose, hair, coat, pink, indian, baby
+roses        : garden, bloom, flower, thorn, rose, june, vase, lily, blossom, pink, lavender, eyebrow, fragrant
+rounding     : bend, corner, canyon, hill, breeze, tide, salt, edge, road, branch, scattered, distant, still
+rub          : soap, salt, thumb, thigh, palm, juice, skin, back, neck, slice, beef, dry
+runners      : swimmer, kite, snow, ice, coyote, blind, indian, nail
+runs         : ebb, brook, river, tide, railroad, road
+rust         : nail, moth, junk, can, stove, crumbling, stained, abandoned, color, piece
+rusting      : nail, moth, junk, rust, can, stove, crumbling, stained, abandoned, color, piece
+rusty        : nail, stove, red, junk, razor, old, brown, blade, coat, crooked, crumbling, stained, worn
+sagging      : adobe, weight, roof, fence, chin, chair, stone, back
+saints       : cathedral, church
+sale         : bidder
+salmon       : fish, fisherman, estuary, pink, slice, roast, fish
+salt         : beef, lake, fish, season, water, slice, juice, sea, dry
+sand         : beach, desert, ocean, grains, seaweed, pebble, driftwood, estuary, tide, beached, dry, beach
+sandals      : sunglasses, pair, slipper, sweater, fragrant, worn, wood, cotton, bare
+savoonga     : 
+saw          : glint, postman, standing, rounding
+say          : 
+says         : 
+scapula      : spine, bone, blade, neck, part
+scarecrow    : brick, bird, corn, nest, coat, lean, patch, green
+scarecrow's  : 
+scattered    : grains, pebble, patch, bench
+scattering   : pebble, shower, dust, direction, seed, cloud, shaft, wind, oak, tree, snow, rain, flower, lights
+scent        : smell, soap, breeze, flower, air, fox, smoke, wind, aroma, incense, lavender, blossom, fragrant, musty, smell, dog
+scratchy     : static, voice, sound, skin, play, dry
+sea          : estuary, seaweed, kelp, ebb, ocean, breeze, salt, open, bird, ice, beach
+seagull      : wave, wing, sea, fish, white, crying
+seals        : jar, ribbon, packet, sign, break, beach, fold
+season       : salt, christmas, slice, beef, juice, vegetable, nesting, roast, sowing, solstice, autumn, pie, winter, crop, harvest, salmon, summer, salt
+seat         : bench, table, chair, lap, county, window, aisle, front, vacant, legged, bench, motion
+seaweed      : kelp, driftwood, strand, tide, shell, fish, pebble, floating, sand, beach, salt, smell, ocean, sea, wave, growth, green, net, stem, water, hair, web, brown, gather, depth, surface, nest, bed, dry, dripping, color, mud
+seclusion    : quiet, indian, shut, quiet, spent
+second       : third, first, expiration, motion, third, last
+see          : wake, vacant, long
+seed         : sowing, harvest, crop, rind, grains, corn, vegetable, blossom, growth
+seeds        : sowing, harvest, crop, rind, grains, corn, vegetable, blossom, growth
+seek         : hide, found
+separates    : 
+setting      : rising, sun, ebb, tide, horizon, twilight, motion, outdoor
+settles      : matter, chair, seat, dust, lap, bench
+seventy      : ninety, thousand, old, year, yard, high, zero
+several      : second, yard
+shadow       : moonlight, light, sunshine, sunlight, lights, mist, shape, forest, tree, twilight, dark, sun, ripple
+shadow's     : 
+shadows      : moonlight, light, sunshine, shadow, sunlight, lights, mist, shape, forest, tree, twilight, dark, sun, ripple
+shaft        : sunlight, archer, plum
+shanty       : railroad, cabin, town, wood, hill, brook, patch, pond, brick, store, roof, snow, yard, winter, lake, deserted, mud
+shape        : vase, color, mist, towering, change
+shearwater   : bird
+shell        : conch, walnut, turtle, snail, sand, seaweed, combs, thumb
+shifts       : graveyard, weight, wind, pedal, seat, chair, clock, hip
+shines       : sun, moon, light, glory, sky, lights, cloud, warm, horizon, sunshine, mist, darkness, shadow, bright, sun
+shivering    : spine, cold, breeze, wind, ripple, wrapping, dripping, huddle, sand, warm
+shorter      : span, length, hair, much, tail, stem, thick, long, straight, dark, large, crop
+shower       : stall, rain, pebble, shaft, blossom, pouring, cloud, april, meteor, falling, faucet, tub, soap, thunder, plastic
+shown        : sign, door, girl, map, sketch, image
+shut         : door, clang, click, mouth, gate, eye, front, open, squeeze, gentle, close
+side         : aisle, mountain, river, canyon, alley, road, door, beef, ocean, lake, sea, garden, back, open
+sighted      : blind, drifting, quick, distant, near, glass, squeeze
+sign         : date
+silence      : stillness, gunshot, echoing, cry, broken, break
+silences     : stillness, gunshot, echoing, cry, broken, break
+silent       : still, stillness, empty, deserted, still, wood, motion, grave
+silk         : slipper, coat, blue, kimono, woolen, cotton, ribbon, pair, sleeping
+single       : attention, stroke, span
+sings        : song, guitar, tune, bird, swan, sparrow, play
+sinking      : sun, rising, horizon, shaft, heart, depth, lower, floating, sand, ocean, chair, surface, wave, deep, utter, sun, mud, desert
+sitting      : bench, chair, table, window, lap, fender, room, cafe, roadside, watching, legged, bench, bed, walk
+sketch       : easel, map, drawing, painting, book, drawn, charcoal
+skiers       : snow, water, mountain, town
+skin         : beaver, bone
+skunk's      : 
+sky          : overcast, cloud, blue, horizon, sun, lightning, moon, meteor, sunset, thunder, twilight, hazy, bright
+slap         : thigh, palm, back, blow, face, tail, hum, wave, upside, bare
+sleeping     : bed, dream, carver, silk, hammock, kimono, child, homeless, wake, bag, bed
+sleeve       : coat, kimono, sweater, ribbon, silk, pluck
+slice        : roast, rind, beef, apple, salt
+slightly     : eyebrow, ahead, away, tilt, bend, salt
+slipper      : foot, kimono, pair, silk, pink, ribbon
+slips        : pocket, letting, sunglasses, kimono, back, fold
+slow         : motion, growth, moving, drizzle, procession, quick
+slug         : snail, lead, swan, plow, fire
+small        : spine, large, patch
+smaller      : spine, large, patch
+smallness    : 
+smell        : aroma, incense, scent, cooking, seaweed, soap, smoke, musty, fragrant
+smiles       : lip, crooked
+smoke        : smell, cloud, fire, incense, drifting, lit, blow, smell, fog, drink
+snail        : slug, shell, beetle, frog, butterfly, moth, spider, pond, fish, thorn, ant, bee, apple, tail, garden, bird, salt, wild, slug
+snake        : tail, neck, bite, frog
+sneakers     : sweater, pair, stall, pink, white, blue, foot, hair, green, red, cotton, bag
+sneeze       : dust, sleeve, tail, smoke, cat, blow, smell
+snow         : frost, ice, overcast, winter, cold, blowing, drifting, wind, mountain, storm, cloud, melt, snowfall, falling, frozen, rain, patch
+snowbank     : snow, road, car, edge, white
+snowbound    : winter
+snowfall     : winter, snow, ice, wind, summer, storm, mountain, surface, night, first, late, light
+snowflakes   : drifting, moth, falling, wind, cloud, snow, winter, storm, white, ice, gentle, air, mountain, sky, shape, window, descend
+snowman's    : 
+snowmelt     : water
+soap         : tub, shower, water, hair, razor, combs, cake, pail, rub, scent, lavender, dry, smell
+soba         : 
+soft         : warm, gentle, breeze, delicate, skin, voice, silk, pink, sunshine, brown, twilight, feather, sound, warm, fragrant, stroke, caress
+solstice     : cancer, summer, rising, winter, sun, season, june, horizon, christmas, northern, spring, dawn, oak, date, ancient, rise, heat, year, sky, march, day, motion, beginning, new, moon
+someone      : tail, else, behind, inside
+somewhere    : ahead, inside, near, hide, toll, read
+son's        : 
+song         : guitar, tune, sparrow, chirp, accordion, swan, favorite, spring, bird, hum
+souls        : body, city, perishable, body, heart
+sound        : echoing, stillness, chirp, hum, thunder, clang, toll
+sowing       : seed, crop, harvest, autumn, april, corn, season, bloom, august, july, june, march, frost, winter, november, vegetable, flower, spring, outdoor, seed, plow
+span         : decade, river, thumb, brook, web, stone, canyon, shorter
+sparrow      : chirp, finch, hawk, nest, heron, dove, bird, beak, song, pedal, ivy, feather, kite, swan, wood, field, glass, chirp
+sparrows     : chirp, finch, hawk, nest, heron, dove, bird, beak, song, pedal, ivy, feather, kite, swan, wood, field, glass, chirp
+spellbound   : listening, stand
+spent        : learning, seclusion, afternoon, evening, summer, year, winter, practice, lecture
+spider       : web, cobweb, beetle, ant, flies, strand, snail, moth, balloon, silk, snake, bee, legged
+spider's     : 
+spine        : small, stem, jar, ripple
+spinster     : daughter, county, woman, elderly, lady, old
+spring       : solstice, sowing, autumn, sunshine, winter, summer, bloom, season, meadow, flower, growth, green, blossom, cistern, brook, april, seed, lake, crop, fragrant, harvest, water
+sprouting    : seed, wing, vegetable, growth, crop, blossom, stem, corn, green, feather, tree, flower, crack, grains, spine, chin, seed, branch, patch
+squeeze      : juice, rind, thumb, thigh, hand, drop, neck, shut, giving, fist, sighted, dry
+squeezes     : juice, rind, thumb, thigh, hand, drop, neck, shut, squeeze, giving, fist, sighted, dry
+stained      : rust, glass, juice, mud, coat, patch
+stall        : shower, sneakers, booth, aisle, car, carving, cathedral, horse, sale, unused, vacant, empty
+stand        : still, easel, hip, watching, umbrella, listening, spellbound, face
+standing     : easel, front, watching, figure, open, wave
+stark        : desert, white, moonlight, shadow, frozen, dripping, bare, branch
+stars        : moon, horizon, sun, sky, cloud, light, bright, moon
+static       : blur, hum, hair, click, lightning, scratchy, ripple
+steadies     : drizzle, growth, hum, breeze, wheel
+steering     : wheel, pedal
+stem         : tide, vase, flower, growth, palm, tree, nest, green, leaf, gill, long, blossom, branch
+steps        : stone, puddle, front, stone, descend
+stick        : needle, thumb, firewood, walking, charcoal, pedal, pocket, driftwood, incense, umbrella, cane, crooked, roast
+stilettos    : blade, pocket, pair, blow
+still        : silent, depth, lake, air, sun, intact, deep, silent, untouched, slow, snow, rain, stand, surface
+stillness    : chirp, silence, sound, echoing, twilight, clang, click, utter, mid, dead, night, broken, hot, break, quiet
+stills       : silent, depth, lake, air, sun, intact, deep, silent, untouched, slow, snow, rain, stand, surface
+stone        : brick, cairn, carving, cistern, mason, roof, urn, carver
+stones       : brick, cairn, carving, cistern, stone, mason, roof, urn, carver
+stops        : bus, cafe, pedal, drizzle, roadside, crying, slow, snow, rain
+store        : grocery, corn, clerk
+storm        : thunder, lightning, cloud, rain
+stove        : kettle, cooking, charcoal, kitchen, yukon, firewood, heat, rusty, warm, rust
+straight     : spine, hair, path, road, stem, razor, line, shaft, crooked, shorter, march
+strand       : hair, wave, seaweed, web, kelp, cobweb, yarn, spider, dangle
+streets      : alley, wall, side, cross, empty, deserted, quiet, corner, car, front, bus
+stretches    : horizon, meadow, sand, length, desert, ocean, forest, neck, full, patch
+stretching   : horizon, meadow, sand, length, desert, ocean, forest, neck, full, patch
+strike       : blow, lightning, meteor, fist, clock, hammer
+strikes      : blow, strike, lightning, meteor, fist, clock, hammer
+string       : violin, neck, firecracker, guitar, kite, loosening, tune, pluck, dangle
+stroke       : caress, thigh, hip, pedal, chin, hair, lightning, thumb, hammer, caress
+strokes      : caress, thigh, hip, pedal, chin, hair, lightning, thumb, hammer, caress
+studies      : learning
+summer       : winter, spring, season, flower, solstice, snow, autumn, harvest, sunshine, heat, bloom, breeze, twilight, blossom, winter, humid, hot, fragrant, sun
+summer's     : 
+sun          : horizon, solstice, rising, setting, moon, sky, cloud, sinking, overcast, heat, bright, mid, hot, glint, brown, warm
+sunglasses   : pair, pocket, mirror, plastic, dark, sunlight, pink, hair, sun, eye, hide, fold
+sunlight     : filtering, glint, shaft, dimming, patch, warm, afternoon, bright, spring, hazy, reflecting, winter, hot
+sunrise      : sunset, dawn, morning, sky, horizon, twilight, mist, breeze, glory, moon, moonlight, pink, cloud, mountain, autumn, hill, meadow, sun, summer, desert, following, bright, line, fire
+sunset       : sunrise, twilight, dusk, sky, dawn, glory, horizon, red, cloud, evening, autumn, breeze, pink, winter, near
+sunshine     : filtering, glint, butterfly, autumn, blossom, cloud, warm, breeze, summer, bloom, rain, shower, spring, afternoon, bright, hot, winter, hazy, fragrant
+supper       : dinner, evening, night, table, cooking, roast, bedtime, bed, home
+surface      : floating, ocean, lake, ripple, reflecting, mirror
+swallowtail  : butterfly, coat, red
+swan         : peacock, heron, loon, lake, feather, beak, dove, pond, song, wing, sparrow, river, bird, neck, lily, white, wild, roast
+sweater      : woolen, sneakers, sleeve, coat, brown, blue, cotton
+swimmer      : water, stroke, surface, sea, ocean, wave, deep, beach, pond, floating, fish, river, net, lone, open, near
+sycamores    : oak, locust, walnut, tree, autumn, branch, wood, garden, green, palm, flower, corn, hill, road, growth, county, shadow, old, leave, leaf, seed
+table        : chair, sitting, tea, vase, bench, chair, seat
+tables       : chair, sitting, tea, vase, bench, chair, seat
+tadpoles     : frog, gill, pond, tail, fish, water, rain, change
+tail         : pedal, wing, peacock, kite, feather, dust, flick, coat, beak, wave
+tails        : pedal, wing, peacock, kite, feather, tail, dust, flick, coat, beak, wave
+taken        : toll, pocket, seat, place
+taker        : toll, ticket, part
+takes        : toll, pocket, seat, place
+taking       : toll, lead
+talk         : nothing, smoke, drink
+talking      : listening
+tasting      : salt, mouth, lip, scent, tea, drink, lifting, water, flick
+tea          : drink, dinner, kettle, urn, cake, beef, lemonade, pouring, slice, drink
+teabag       : 
+tell         : going
+tempt        : throw
+ten          : clock, thousand, fifteen, second, year, grains, expiration, yard, old, clock
+tending      : vegetable
+text         : 
+thanksgiving : christmas, november, dinner, birthday, pie, procession, glory, song, cathedral, day, church, harvest, utter
+thick        : smoke, growth, hair, cloud, oak, fog, stem, ice, dust, slice, mist, rind, foot, wall, branch, mud, glass
+thigh        : hip, inside, slap, mid, left, bone, hip, pocket, stroke, caress
+thing        : way, real, first
+third        : second, first, second
+thorn        : stem, snail, blossom, flesh, spine, oak, rose, branch
+thought      : 
+thousand     : ten, seventy, ninety, fifteen, year
+throw        : pebble, weight, stone, heart
+thumb        : hammer, palm, pocket, nail, page, cupped, shell, rub, stroke, flick, back, hike
+thunder      : lightning, storm, echoing, cloud, sky, cry, wave, rain, distant
+ticket       : lottery, sale, taker, bus, booth, railroad
+tide         : ocean, ebb, wind, river, seaweed, christmas, estuary, flowing, stem, beach, rising, sand, drifting, lap
+tilt         : chin, eyebrow, mirror, wheel, yard, chair, hammer, beak, eye, glint
+time         : christmas, spent
+tints        : sunset, color, sky, blue, delicate, autumn, pink, red, green, soft
+tips         : tail, thumb, beak, scarecrow, blade, wing, antlers, rub, flick, tilt, touch, water
+titmouse     : bird
+together     : huddle, gather, huddle, piece
+told         : going
+toll         : funeral, taker, death, clang, cathedral, booth, gate, church, clock, procession, taking, stroke, fair, sound, road
+tombstones   : graveyard, coyote, burial, grave, memorial, church, canyon, date, ancient
+tools        : hammer, carving, garden, cooking
+touch        : caress, delicate, gentle, guitar, light, stroke, caress
+touched      : lip, caress, sleeve, frost, thigh, touch
+towels       : soap, tub, shower, hair, kitchen, water, combs, skin, wrapping, faucet, rub, kimono, slipper, dripping, dry, fold
+tower's      : 
+towering     : mountain, canyon, oak, cloud, waterfall, sky, wall
+town         : county, river, city, shanty
+tracks       : railroad, cairn, snail, mud, road
+trail's      : 
+trapped      : beaver, net, spider, setting, fox, web, ripple, fall
+tree         : walnut, apple, locust, blossom, christmas, oak, branch, bloom, meadow, stem, forest, palm, garden, growth, flower, nest, patch
+tree's       : 
+trees        : walnut, apple, locust, blossom, christmas, oak, branch, bloom, meadow, stem, forest, palm, garden, growth, flower, nest, patch
+trodden      : path, foot, corn, dust, earth, mud, road
+tub          : faucet, soap, pail, cistern, shower, water
+tune         : string, song, playing, guitar, hum, violin, accordion, play
+turn         : upside, faucet, tide, corner, wheel, back, alley, away, face, walk, coat
+turned       : upside, faucet
+turning      : upside, wheel, line, left, faucet, page
+turns        : upside, faucet, tide, corner, wheel, back, alley, away, face, walk, coat
+turtle       : sea, dove, shell, frog, fish, roast, beak, salmon, sweater, snake, beach, meteor, hawk, pond, bird, mud
+twilight     : stillness, forest, dusk, dimming, sunset, dawn, sun, autumn, horizon, overcast, evening, darkness, grey, shadow, sky, summer, sea, hazy
+two          : third, seventy, thousand
+umbrella     : rain, cane, coat, silk, shower, carrying, beach, cafe, stick, walking, bag, green, dripping, elderly, rain, cotton, huddle, sun, fold
+unable       : 
+underfoot    : sand, needle, snow, frost, ice, smell, thunder, blossom, dust, plastic, fallen, walking, earth, rain, surface, frozen, scattered, mud, dry, branch, sky, glass
+unfamiliar   : scent, smell, language, still, unknown, green
+unfolding    : blossom, wing, map, butterfly, plot, pocket, flower, fold, read, plastic, growth, page, full, blossom
+unknown      : ocean, depth, explored
+unopened     : packet, can, pocket, table, silk, bag
+untouched    : leaving, forest, deep, leave, meadow
+unused       : stall, long, packet
+upside       : turn, turning, pail, jar, cake, pie, reading, turned, turn, dangle, empty
+urn          : vase, burial, tea, funeral, jar, incense, memorial, kettle, blossom, dead, procession, grave, bone, stone, ancient, dust, table
+us           : 
+utter        : stillness, cry, darkness
+vacant       : seat, chair, stall, see, filling, fence, place, table, empty, deserted, seat, fall
+vase         : urn, flower, pompeii, jar, lily, blossom, bloom, pink, fragrant, glass, stem
+vegetable    : garden, growth, corn, crop, salt, fish, canning, roast, seed
+venus        : crescent
+victim       : fallen, falling
+violin       : guitar, string, accordion, playing, tune, play, second, practice
+voice        : behind, sound, echoing, scratchy, lower
+voices       : behind, sound, echoing, scratchy, lower
+wait         : listening
+wake         : dawn, dream, fair, sleeping, morning, see, funeral, thunder, falling, bed
+walk         : aisle, garden, path, beach, ride, front, slow
+walking      : stick, cane, aisle, umbrella, garden, path, beach, climbing, procession, slipper, alley, road
+wall         : adobe, canyon, painting, brick, roof, stone, garden, towering, crumbling, mirror
+walnut       : plum, oak, shell, rind, juice, apple, tree, crack, hill
+wander       : meadow, wood, letting, wild, forest, path, desert, picking, garden, sky, homeless, lone, let
+war          : close, indian
+warm         : sunshine, sunlight, bright, sun, dry, soft, cold, winter, heat, air, scent, breeze, smell, summer, stove, snow, melt, heart, humid, fragrant, cool, hot
+warmed       : sunshine, sunlight, bright, sun, dry, soft, cold, winter, heat, air, scent, breeze, smell, summer, stove, snow, melt, heart, humid, fragrant, cool, hot
+warms        : sunshine, sunlight, bright, sun, dry, soft, cold, winter, heat, air, scent, breeze, smell, summer, stove, snow, melt, heart, humid, fragrant, cool, hot
+warning      : lights, prophetic, sound, clang
+washer       : window, kitchen, wheel, end
+washer's     : 
+washes       : soap, water, tub, pail, cistern, wave, salt, dry
+watching     : listening, sitting, standing, window, going, spent, stand
+water        : pail, faucet, pond, cistern, lake, estuary, salt, puddle, tub, dam, garden, river, surface, brook, floating, jar, drink, wood, dry
+waterfall    : canyon, brook, pouring, lake, salmon, mist, mountain, river, dam, forest, stillness, frozen, towering, distant
+watermelon   : rind, slice, patch, corn, apple, vegetable, pink, green, season, garden, ice, drop, boy, red, seed
+wave         : seaweed, breeze, ocean, ripple, beach, lap, ebb
+waves        : seaweed, breeze, ocean, ripple, beach, lap, ebb
+way          : thing, lead, wing, wind
+ways         : parting, crooked
+web          : spider, nest, strand, text, flies, net, span
+weight       : lifting, grains, pressing
+well         : water, air
+wets         : cold, rain, seaweed, puddle, shower, smell, lip, skin, hair, foot, firecracker, dry, dripping, cold, bird, hot
+whalebone    : skin, fish, piece, bone, wood, mouth, small
+wharf        : fisherman, tide, river, b
